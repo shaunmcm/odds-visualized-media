@@ -1,0 +1,87 @@
+[
+ {
+  "id": "L06_games",
+  "hook": {
+   "top": "Game odds, easy to impossible.",
+   "big": "IMPOSSIBLE",
+   "bottom": "",
+   "ask": "Guess the last one.",
+   "explain": ""
+  },
+  "stops": [
+   {
+    "emoji": "🎲",
+    "label": "Roll a six",
+    "num": "1 in 6",
+    "source": ""
+   },
+   {
+    "emoji": "🃏",
+    "label": "Blackjack on the deal",
+    "num": "1 in 21",
+    "source": ""
+   },
+   {
+    "emoji": "🐍",
+    "label": "Snake eyes",
+    "num": "1 in 36",
+    "source": ""
+   },
+   {
+    "emoji": "🎡",
+    "label": "Hit your roulette number",
+    "num": "1 in 38",
+    "source": ""
+   },
+   {
+    "emoji": "🎯",
+    "label": "Yahtzee in one roll",
+    "num": "1 in 1,296",
+    "source": ""
+   },
+   {
+    "emoji": "4️⃣",
+    "label": "Four of a kind",
+    "num": "1 in 4,165",
+    "source": ""
+   },
+   {
+    "emoji": "🌊",
+    "label": "A straight flush",
+    "num": "1 in 72,193",
+    "source": ""
+   },
+   {
+    "emoji": "💎",
+    "label": "A royal flush",
+    "num": "1 in 649,740",
+    "source": ""
+   },
+   {
+    "emoji": "🪙",
+    "label": "20 heads in a row",
+    "num": "1 in 1 million",
+    "source": ""
+   },
+   {
+    "emoji": "🎟️",
+    "label": "Win the Powerball",
+    "num": "1 in 292 million",
+    "source": ""
+   },
+   {
+    "emoji": "🏀",
+    "label": "A perfect bracket",
+    "num": "1 in 9.2 quintillion",
+    "source": ""
+   }
+  ],
+  "payoff": {
+   "emoji": "🧩",
+   "label": "Solve a Rubik's cube by luck",
+   "num": "1 in 43.3 quintillion",
+   "line": "",
+   "source": ""
+  }
+ }
+]

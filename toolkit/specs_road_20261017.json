@@ -1,0 +1,62 @@
+[
+ {
+  "id": "L03_cards",
+  "hook": {
+   "top": "One card hand is",
+   "big": "2,000x RARER",
+   "bottom": "than winning the Powerball.",
+   "ask": "Can you guess it before the end?"
+  },
+  "stops": [
+   {
+    "emoji": "♥️",
+    "label": "Draw a heart",
+    "num": "1 in 4",
+    "source": "Math: 13 / 52"
+   },
+   {
+    "emoji": "🅰️",
+    "label": "Draw an ace",
+    "num": "1 in 13",
+    "source": "Math: 4 / 52"
+   },
+   {
+    "emoji": "🔟",
+    "label": "Blackjack",
+    "num": "1 in 21",
+    "source": "Math: ace + 10-value in first 2 cards, one deck"
+   },
+   {
+    "emoji": "♠️",
+    "label": "The ace of spades",
+    "num": "1 in 52",
+    "source": "Math: 1 / 52"
+   },
+   {
+    "emoji": "👀",
+    "label": "Pocket aces",
+    "num": "1 in 221",
+    "source": "Math: 6 / 1,326 Texas Hold'em starting hands"
+   },
+   {
+    "emoji": "4️⃣",
+    "label": "Four of a kind",
+    "num": "1 in 4,165",
+    "source": "Math: 624 / 2,598,960 five-card hands"
+   },
+   {
+    "emoji": "🔥",
+    "label": "Straight flush",
+    "num": "1 in 72,193",
+    "source": "Math: 36 / 2,598,960 (not counting royal)"
+   }
+  ],
+  "payoff": {
+   "emoji": "🤯",
+   "label": "All 13 spades",
+   "num": "1 in 635 BILLION",
+   "line": "Deal one hand every second: about 20,000 years.",
+   "source": "Math: 1 / C(52,13) = 1 / 635,013,559,600 bridge hands"
+  }
+ }
+]

@@ -1,0 +1,85 @@
+[
+ {
+  "id": "L02_wait",
+  "title_top": "8 rare things. One try every single day.",
+  "title_main": "IF YOU TRIED ONCE A DAY...",
+  "title_sub": "how long until you'd finally win?",
+  "items": [
+   {
+    "emoji": "🎲",
+    "label": "Double sixes",
+    "denom": 36,
+    "wait": "5 weeks",
+    "context": "About one month",
+    "source": "Odds: 1 in 36 (dice math). Average wait = 1 / odds tries"
+   },
+   {
+    "emoji": "🎯",
+    "label": "Yahtzee in one roll",
+    "denom": 1296,
+    "wait": "3.5 years",
+    "context": "Almost a whole presidential term",
+    "source": "Odds: 1 in 1,296 (6 / 6^5). Average wait = 1 / odds tries"
+   },
+   {
+    "emoji": "⛳",
+    "label": "A hole-in-one",
+    "denom": 12500,
+    "wait": "34 years",
+    "context": "Start at 18, finish at 52",
+    "source": "Odds: about 1 in 12,500 for an average golfer (Hole-in-One Registry via PGA.com)"
+   },
+   {
+    "emoji": "👑",
+    "label": "A royal flush",
+    "denom": 649740,
+    "wait": "1,779 years",
+    "context": "Start in 247 AD, finish today",
+    "source": "Odds: 1 in 649,740 (5-card poker math)"
+   },
+   {
+    "emoji": "🔐",
+    "label": "Guess a 6-digit PIN",
+    "denom": 1000000,
+    "wait": "2,738 years",
+    "context": "Start in ancient Rome, finish in the 1980s",
+    "source": "Odds: 1 in 1,000,000 (10^6 PINs); Rome's traditional founding 753 BC"
+   },
+   {
+    "emoji": "🐒",
+    "label": "A monkey types \"banana\"",
+    "denom": 308915776,
+    "wait": "845,800 years",
+    "context": "Almost 3x longer than humans have existed",
+    "source": "Odds: 1 in 26^6 = 308,915,776 (6 letters, 26 keys)"
+   },
+   {
+    "emoji": "📞",
+    "label": "Guess a phone number",
+    "denom": 10000000000,
+    "wait": "27 million years",
+    "context": "40% of the time since the dinosaurs died",
+    "source": "Odds: 1 in 10^10; dinosaurs went extinct about 66 million years ago"
+   },
+   {
+    "emoji": "🏀",
+    "label": "A perfect bracket",
+    "denom": 9223372036854775808,
+    "odds_text": "1 in 9.2 quintillion",
+    "wait": "25 quadrillion yrs",
+    "context": "1.8 MILLION times the age of the universe",
+    "source": "Odds: 1 in 2^63 if every game is a coin flip; universe is 13.8 billion years old"
+   }
+  ],
+  "outro_top": "Rare just takes patience.",
+  "outro_line": "1 in a million sounds impossible. Out of 8 billion people, that's 8,000 winners.",
+  "outro_cta": "SUBSCRIBE FOR DAILY ODDS",
+  "hook": {
+   "emoji": "🏀",
+   "top": "A perfect March Madness bracket would take",
+   "num": "25 quadrillion years",
+   "bottom": "if you filled out one every single day.",
+   "loop": "But one of these takes just 5 weeks..."
+  }
+ }
+]

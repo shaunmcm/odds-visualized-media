@@ -1,0 +1,263 @@
+[
+ {
+  "id": "S02_lottery",
+  "series": "RARER THAN YOU THINK · PART 2",
+  "headline": "Lottery players, look away.",
+  "bg_from": "#15803D",
+  "bg_to": "#7E22CE",
+  "hook": {
+   "left": {
+    "emoji": "🎟️",
+    "label": "Powerball"
+   },
+   "right": {
+    "emoji": "⚡",
+    "label": "Lightning"
+   }
+  },
+  "items": [
+   {
+    "emoji": "✍️",
+    "label": "Left-handed",
+    "num": "1 in 9",
+    "n": 9
+   },
+   {
+    "emoji": "👯",
+    "label": "Born a twin",
+    "num": "1 in 33",
+    "n": 33
+   },
+   {
+    "emoji": "🐸",
+    "label": "Born on Feb 29",
+    "num": "1 in 1,506",
+    "n": 1506
+   },
+   {
+    "emoji": "⛳",
+    "label": "Hole-in-one",
+    "num": "1 in 12,500",
+    "n": 12500
+   },
+   {
+    "emoji": "⚡",
+    "label": "Struck by lightning",
+    "num": "1 in 15,300",
+    "n": 15300
+   },
+   {
+    "emoji": "🐕",
+    "label": "Killed by a dog",
+    "num": "1 in 33,899",
+    "n": 33899
+   },
+   {
+    "emoji": "🐝",
+    "label": "Killed by a bee",
+    "num": "1 in 42,626",
+    "n": 42626
+   },
+   {
+    "emoji": "👑",
+    "label": "Royal flush",
+    "num": "1 in 649,740",
+    "n": 649740
+   },
+   {
+    "emoji": "🦈",
+    "label": "Killed by a shark",
+    "num": "1 in 3.7 million",
+    "n": 3748067
+   },
+   {
+    "emoji": "🎟️",
+    "label": "POWERBALL JACKPOT",
+    "num": "1 in 292 MILLION",
+    "n": 292201338
+   }
+  ],
+  "final_line": "78x rarer than a shark attack.",
+  "cta": "Still buying tickets?",
+  "yes": "YES",
+  "no": "NO",
+  "follow": "Follow for Part 3",
+  "source": "NSC 2024; NWS; CDC; PGA/Hole-in-One Registry; ISAF; Powerball; card math",
+  "topic": "Things more likely than winning the lottery",
+  "ranked": "10 things ranked: most likely to least likely"
+ },
+ {
+  "id": "S03_passwords",
+  "series": "RARER THAN YOU THINK · PART 3",
+  "headline": "Your password isn't safe.",
+  "bg_from": "#B91C1C",
+  "bg_to": "#065F46",
+  "hook": {
+   "left": {
+    "emoji": "🔓",
+    "label": "Short password"
+   },
+   "right": {
+    "emoji": "🔐",
+    "label": "Long password"
+   }
+  },
+  "items": [
+   {
+    "emoji": "🔢",
+    "label": "1 digit",
+    "num": "1 in 10",
+    "n": 10
+   },
+   {
+    "emoji": "💯",
+    "label": "2 digits",
+    "num": "1 in 100",
+    "n": 100
+   },
+   {
+    "emoji": "🏧",
+    "label": "4-digit PIN",
+    "num": "1 in 10,000",
+    "n": 10000
+   },
+   {
+    "emoji": "🔡",
+    "label": "3 letters",
+    "num": "1 in 17,576",
+    "n": 17576
+   },
+   {
+    "emoji": "🔤",
+    "label": "4 letters",
+    "num": "1 in 456,976",
+    "n": 456976
+   },
+   {
+    "emoji": "📱",
+    "label": "6-digit PIN",
+    "num": "1 in 1,000,000",
+    "n": 1000000
+   },
+   {
+    "emoji": "📞",
+    "label": "A phone number",
+    "num": "1 in 10 billion",
+    "n": 10000000000
+   },
+   {
+    "emoji": "🔑",
+    "label": "8 lowercase letters",
+    "num": "1 in 209 billion",
+    "n": 208827064576
+   },
+   {
+    "emoji": "🛡️",
+    "label": "8 letters + numbers",
+    "num": "1 in 218 trillion",
+    "n": 218340105584896
+   },
+   {
+    "emoji": "🏰",
+    "label": "12 CHARACTERS, ANY KEY",
+    "num": "1 in 540 SEXTILLION",
+    "n": 540360087662636962890625
+   }
+  ],
+  "final_line": "17 million years to crack it.",
+  "cta": "Is your password longer than 12?",
+  "yes": "YES",
+  "no": "NO",
+  "follow": "Follow for Part 4",
+  "source": "Pure math: possible combinations (10^n digits, 26^n letters, 62^8, 95^12)",
+  "topic": "How easy is your password to guess?",
+  "ranked": "10 passwords ranked: easiest to hardest to guess"
+ },
+ {
+  "id": "S04_poker",
+  "series": "RARER THAN YOU THINK · PART 4",
+  "headline": "You'll never be dealt this.",
+  "bg_from": "#1E3A8A",
+  "bg_to": "#7F1D1D",
+  "hook": {
+   "left": {
+    "emoji": "🃏",
+    "label": "Pocket aces"
+   },
+   "right": {
+    "emoji": "👑",
+    "label": "Royal flush"
+   }
+  },
+  "items": [
+   {
+    "emoji": "♥️",
+    "label": "Draw a heart",
+    "num": "1 in 4",
+    "n": 4
+   },
+   {
+    "emoji": "🅰️",
+    "label": "Draw an ace",
+    "num": "1 in 13",
+    "n": 13
+   },
+   {
+    "emoji": "👯",
+    "label": "A pair, first 2 cards",
+    "num": "1 in 17",
+    "n": 17
+   },
+   {
+    "emoji": "👀",
+    "label": "Pocket aces",
+    "num": "1 in 221",
+    "n": 221
+   },
+   {
+    "emoji": "🌊",
+    "label": "A flush",
+    "num": "1 in 509",
+    "n": 509
+   },
+   {
+    "emoji": "🏠",
+    "label": "Full house",
+    "num": "1 in 694",
+    "n": 694
+   },
+   {
+    "emoji": "4️⃣",
+    "label": "Four of a kind",
+    "num": "1 in 4,165",
+    "n": 4165
+   },
+   {
+    "emoji": "🔥",
+    "label": "Straight flush",
+    "num": "1 in 72,193",
+    "n": 72193
+   },
+   {
+    "emoji": "👑",
+    "label": "Royal flush",
+    "num": "1 in 649,740",
+    "n": 649740
+   },
+   {
+    "emoji": "🤯",
+    "label": "ALL 13 SPADES",
+    "num": "1 in 635 BILLION",
+    "n": 635013559600
+   }
+  ],
+  "final_line": "977,000x rarer than a royal flush.",
+  "cta": "Ever been dealt a royal flush?",
+  "yes": "YES",
+  "no": "NO",
+  "follow": "Follow for Part 5",
+  "source": "Card math: 52-card deck; 5-card hands out of 2,598,960; bridge hands out of C(52,13)",
+  "topic": "Odds of being dealt each card hand",
+  "ranked": "10 hands ranked: most common to rarest"
+ }
+]

@@ -1,0 +1,100 @@
+[
+ {
+  "id": "L01_ladder",
+  "intro_color": "#1F2937",
+  "outro_color": "#111827",
+  "title_top": "8 real odds, ranked from",
+  "title_main": "EVERYDAY → IMPOSSIBLE",
+  "title_sub": "Guess which one breaks the scale",
+  "rungs": [
+   {
+    "emoji": "✍️",
+    "label": "Being left-handed",
+    "num": "1 in 9",
+    "count": 9,
+    "log10": 0.97,
+    "context": "About 1 in every 9 people you meet",
+    "source": "Papadatou-Pastou et al. 2020, Psychological Bulletin",
+    "color": "#2563EB"
+   },
+   {
+    "emoji": "🎲",
+    "label": "Rolling double sixes",
+    "num": "1 in 36",
+    "count": 36,
+    "log10": 1.556,
+    "context": "Two dice, 36 combos, and only one is 6-6",
+    "source": "Math: 1/6 x 1/6",
+    "color": "#7C3AED"
+   },
+   {
+    "emoji": "🐸",
+    "label": "Born on February 29",
+    "num": "1 in 1,506",
+    "count": 1506,
+    "log10": 3.178,
+    "context": "Only 97 leap days every 400 years",
+    "source": "Math: 97 leap days per 146,097 days",
+    "color": "#65A30D"
+   },
+   {
+    "emoji": "⛳",
+    "label": "A hole-in-one",
+    "num": "1 in 12,500",
+    "count": 12500,
+    "log10": 4.097,
+    "context": "For an average golfer on a par 3",
+    "source": "National Hole-in-One Registry via PGA.com",
+    "color": "#15803D"
+   },
+   {
+    "emoji": "👑",
+    "label": "Being dealt a royal flush",
+    "num": "1 in 649,740",
+    "count": 649740,
+    "log10": 5.813,
+    "context": "Deal a hand every minute: about 15 months to see one",
+    "source": "Math: 4 royal flushes in 2,598,960 hands",
+    "color": "#B45309"
+   },
+   {
+    "emoji": "🎟️",
+    "label": "Winning the Powerball jackpot",
+    "num": "1 in 292,201,338",
+    "count": 292201338,
+    "log10": 8.466,
+    "context": "One ticket every drawing: about 1.9 million years",
+    "source": "Powerball official odds; 3 drawings a week",
+    "color": "#C2410C"
+   },
+   {
+    "emoji": "🧩",
+    "label": "A random Rubik's Cube is solved",
+    "num": "1 in 43 quintillion",
+    "log10": 19.636,
+    "context": "One scramble a second: 1.4 trillion years, 100x the age of the universe",
+    "source": "Math: 43,252,003,274,489,856,000 cube states",
+    "color": "#0F766E"
+   },
+   {
+    "emoji": "🃏",
+    "label": "A shuffled deck in one exact order",
+    "num": "1 in 8 x 10^67",
+    "log10": 67.907,
+    "context": "More possible orders than atoms on Earth (about 10^50)",
+    "source": "Math: 52! deck orders",
+    "color": "#B91C1C"
+   }
+  ],
+  "outro_top": "The rarest one is in your kitchen drawer.",
+  "outro_line": "Every good shuffle is almost certainly an order no one has ever seen before.",
+  "outro_cta": "SUBSCRIBE FOR DAILY ODDS",
+  "hook": {
+   "emoji": "🃏",
+   "top": "Shuffle a deck and the order you get had odds of",
+   "num": "1 in 8 x 10^67",
+   "bottom": "It has probably never existed before in history.",
+   "loop": "Let's climb from everyday to impossible..."
+  }
+ }
+]

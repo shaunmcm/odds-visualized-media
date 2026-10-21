@@ -1,0 +1,269 @@
+[
+ {
+  "id": "T05_dying",
+  "hook": {
+   "top": "The death everyone fears most is",
+   "big": "88x RARER",
+   "bottom": "than dying from a bee sting.",
+   "ask": "Guess it before the end.",
+   "explain": "Lifetime odds of dying, ranked: most to least likely"
+  },
+  "stops": [
+   {
+    "emoji": "❤️",
+    "label": "Heart disease",
+    "num": "1 in 6",
+    "source": "NSC Injury Facts, lifetime odds of dying (2024 data)"
+   },
+   {
+    "emoji": "🎗️",
+    "label": "Cancer",
+    "num": "1 in 7",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🧠",
+    "label": "Stroke",
+    "num": "1 in 26",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🪜",
+    "label": "A fall",
+    "num": "1 in 89",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🚗",
+    "label": "Car crash",
+    "num": "1 in 101",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🚶",
+    "label": "Hit while walking",
+    "num": "1 in 492",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🏍️",
+    "label": "Motorcycle crash",
+    "num": "1 in 726",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🌊",
+    "label": "Drowning",
+    "num": "1 in 1,025",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🔥",
+    "label": "Fire or smoke",
+    "num": "1 in 1,365",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🍔",
+    "label": "Choking on food",
+    "num": "1 in 2,367",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "☀️",
+    "label": "Sunstroke",
+    "num": "1 in 3,740",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🐕",
+    "label": "Dog attack",
+    "num": "1 in 33,899",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🐝",
+    "label": "Bee or wasp sting",
+    "num": "1 in 42,626",
+    "source": "NSC Injury Facts (2024)"
+   }
+  ],
+  "payoff": {
+   "emoji": "🦈",
+   "label": "Shark attack",
+   "num": "1 in 3.7 MILLION",
+   "line": "The thing we fear most is the rarest of all.",
+   "source": "Florida Museum International Shark Attack File"
+  }
+ },
+ {
+  "id": "T06_findone",
+  "hook": {
+   "top": "Pick one person from all of history:",
+   "big": "1 in 117 BILLION",
+   "bottom": "More people have died than are alive.",
+   "ask": "Start small...",
+   "explain": "Find the one right person, from 2 people to all of history"
+  },
+  "stops": [
+   {
+    "emoji": "🫂",
+    "label": "Pick 1 of 2 people",
+    "num": "1 in 2",
+    "source": "Math: 1 / crowd size"
+   },
+   {
+    "emoji": "🏫",
+    "label": "A class of 30",
+    "num": "1 in 30",
+    "source": "Math: 1 / crowd size"
+   },
+   {
+    "emoji": "🏢",
+    "label": "A school of 1,000",
+    "num": "1 in 1,000",
+    "source": "Math: 1 / crowd size"
+   },
+   {
+    "emoji": "🏘️",
+    "label": "A town of 10,000",
+    "num": "1 in 10,000",
+    "source": "Math: 1 / crowd size"
+   },
+   {
+    "emoji": "🎤",
+    "label": "A concert of 20,000",
+    "num": "1 in 20,000",
+    "source": "Math: 1 / crowd size"
+   },
+   {
+    "emoji": "🏟️",
+    "label": "A stadium of 100,000",
+    "num": "1 in 100,000",
+    "source": "Math: 1 / crowd size"
+   },
+   {
+    "emoji": "🌆",
+    "label": "A city of 1 million",
+    "num": "1 in 1 million",
+    "source": "Math: 1 / crowd size"
+   },
+   {
+    "emoji": "🗽",
+    "label": "A city of 10 million",
+    "num": "1 in 10 million",
+    "source": "Math: 1 / crowd size"
+   },
+   {
+    "emoji": "🇺🇸",
+    "label": "Everyone in the USA",
+    "num": "1 in 340 million",
+    "source": "US Census Bureau (~340 million)"
+   },
+   {
+    "emoji": "🇮🇳",
+    "label": "Everyone in India",
+    "num": "1 in 1.4 billion",
+    "source": "United Nations (~1.45 billion)"
+   },
+   {
+    "emoji": "🌍",
+    "label": "Everyone alive",
+    "num": "1 in 8.1 billion",
+    "source": "United Nations (~8.1 billion)"
+   }
+  ],
+  "payoff": {
+   "emoji": "👥",
+   "label": "Everyone who ever lived",
+   "num": "1 in 117 BILLION",
+   "line": "About 14x more people than are alive today.",
+   "source": "Population Reference Bureau estimate (~117 billion ever born)"
+  }
+ },
+ {
+  "id": "T07_cards",
+  "hook": {
+   "top": "Guess a shuffled deck in order?",
+   "big": "IMPOSSIBLE",
+   "bottom": "More orders than atoms on Earth.",
+   "ask": "Start with one card...",
+   "explain": "Card guesses, ranked: easy to impossible"
+  },
+  "stops": [
+   {
+    "emoji": "🔴",
+    "label": "Guess the color",
+    "num": "1 in 2",
+    "source": "Math: permutations of a 52-card deck"
+   },
+   {
+    "emoji": "♣️",
+    "label": "Guess the suit",
+    "num": "1 in 4",
+    "source": "Math: permutations of a 52-card deck"
+   },
+   {
+    "emoji": "🔢",
+    "label": "Guess the number",
+    "num": "1 in 13",
+    "source": "Math: permutations of a 52-card deck"
+   },
+   {
+    "emoji": "🎯",
+    "label": "Guess the exact card",
+    "num": "1 in 52",
+    "source": "Math: permutations of a 52-card deck"
+   },
+   {
+    "emoji": "✌️",
+    "label": "Guess 2 cards in order",
+    "num": "1 in 2,652",
+    "source": "Math: permutations of a 52-card deck"
+   },
+   {
+    "emoji": "🤞",
+    "label": "Guess 3 cards in order",
+    "num": "1 in 132,600",
+    "source": "Math: permutations of a 52-card deck"
+   },
+   {
+    "emoji": "😵",
+    "label": "Guess 4 cards in order",
+    "num": "1 in 6.5 million",
+    "source": "Math: permutations of a 52-card deck"
+   },
+   {
+    "emoji": "🤯",
+    "label": "Guess 5 cards in order",
+    "num": "1 in 312 million",
+    "source": "Math: permutations of a 52-card deck"
+   },
+   {
+    "emoji": "🧠",
+    "label": "Guess 6 cards in order",
+    "num": "1 in 15 billion",
+    "source": "Math: permutations of a 52-card deck"
+   },
+   {
+    "emoji": "🔥",
+    "label": "Guess 7 cards in order",
+    "num": "1 in 674 billion",
+    "source": "Math: permutations of a 52-card deck"
+   },
+   {
+    "emoji": "🌌",
+    "label": "Guess 10 cards in order",
+    "num": "1 in 5.7 x 10^16",
+    "source": "Math: permutations of a 52-card deck"
+   }
+  ],
+  "payoff": {
+   "emoji": "🃏",
+   "label": "The whole deck",
+   "num": "1 in 8 x 10^67",
+   "line": "Every shuffle is probably a first in history.",
+   "source": "Math: 52! ≈ 8.07 x 10^67"
+  }
+ }
+]

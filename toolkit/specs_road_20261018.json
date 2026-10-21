@@ -1,0 +1,99 @@
+[
+ {
+  "id": "L04_dying",
+  "hook": {
+   "top": "The death everyone fears most is",
+   "big": "88x RARER",
+   "bottom": "than dying from a bee sting.",
+   "ask": "Guess what it is before the end.",
+   "explain": "Lifetime odds of dying in the US, ranked: most to least likely"
+  },
+  "stops": [
+   {
+    "emoji": "❤️",
+    "label": "Heart disease",
+    "num": "1 in 6",
+    "source": "NSC Injury Facts, lifetime odds of dying (2024 data)"
+   },
+   {
+    "emoji": "🎗️",
+    "label": "Cancer",
+    "num": "1 in 7",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🧠",
+    "label": "Stroke",
+    "num": "1 in 26",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🪜",
+    "label": "A fall",
+    "num": "1 in 89",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🚗",
+    "label": "Car crash",
+    "num": "1 in 101",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🚶",
+    "label": "Hit while walking",
+    "num": "1 in 492",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🏍️",
+    "label": "Motorcycle crash",
+    "num": "1 in 726",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🌊",
+    "label": "Drowning",
+    "num": "1 in 1,025",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🔥",
+    "label": "Fire or smoke",
+    "num": "1 in 1,365",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🍔",
+    "label": "Choking on food",
+    "num": "1 in 2,367",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "☀️",
+    "label": "Sunstroke",
+    "num": "1 in 3,740",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🐕",
+    "label": "Dog attack",
+    "num": "1 in 33,899",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "🐝",
+    "label": "Bee or wasp sting",
+    "num": "1 in 42,626",
+    "source": "NSC Injury Facts (2024)"
+   }
+  ],
+  "payoff": {
+   "emoji": "🦈",
+   "label": "Shark attack",
+   "num": "1 in 3.7 MILLION",
+   "line": "The thing we fear most is the rarest of all.",
+   "source": "Florida Museum International Shark Attack File"
+  }
+ }
+]

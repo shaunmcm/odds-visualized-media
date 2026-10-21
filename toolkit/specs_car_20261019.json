@@ -1,0 +1,274 @@
+[
+ {
+  "id": "C01_passwords",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Your “strong” password isn't.",
+    "title": "Long beats complex. Here's the math.",
+    "emoji": "🔐",
+    "big": ""
+   },
+   {
+    "type": "value",
+    "n": 1,
+    "emoji": "🔡",
+    "title": "8 lowercase letters",
+    "big": "209 billion combos",
+    "note": ""
+   },
+   {
+    "type": "value",
+    "n": 2,
+    "emoji": "🔣",
+    "title": "8 characters with symbols",
+    "big": "6.1 quadrillion combos",
+    "note": ""
+   },
+   {
+    "type": "value",
+    "n": 3,
+    "emoji": "📏",
+    "title": "12 lowercase letters",
+    "big": "95.4 quadrillion combos",
+    "note": "Beats 8 characters with symbols"
+   },
+   {
+    "type": "value",
+    "n": 4,
+    "emoji": "🎲",
+    "title": "4 random words",
+    "big": "3.7 quadrillion combos",
+    "note": "Picked at random from a 7,776-word list"
+   },
+   {
+    "type": "value",
+    "n": 5,
+    "emoji": "🛡️",
+    "title": "6 random words",
+    "big": "221 sextillion combos",
+    "note": ""
+   },
+   {
+    "type": "value",
+    "n": 6,
+    "emoji": "➕",
+    "title": "Each extra letter makes it",
+    "big": "26x harder",
+    "note": "For lowercase letters"
+   },
+   {
+    "type": "cta",
+    "title": "Save this for your next password reset.",
+    "keyword": "",
+    "line": "Send it to the friend who still uses password123.",
+    "save": "Follow for daily odds",
+    "emoji": "💾"
+   }
+  ]
+ },
+ {
+  "id": "C02_montyhall",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Game shows hope you never learn this.",
+    "title": "Always switch doors. Here's the math.",
+    "emoji": "🚪",
+    "big": ""
+   },
+   {
+    "type": "value",
+    "n": 1,
+    "emoji": "🚪",
+    "title": "Pick 1 of 3 doors. One hides a car.",
+    "big": "1 in 3",
+    "note": ""
+   },
+   {
+    "type": "value",
+    "n": 2,
+    "emoji": "🐐",
+    "title": "The host opens a door with a goat.",
+    "big": "Now 2 doors left",
+    "note": ""
+   },
+   {
+    "type": "value",
+    "n": 3,
+    "emoji": "🧍",
+    "title": "Stay with your door",
+    "big": "Win 1 in 3",
+    "note": ""
+   },
+   {
+    "type": "value",
+    "n": 4,
+    "emoji": "🔄",
+    "title": "Switch doors",
+    "big": "Win 2 in 3",
+    "note": "Switching doubles your odds"
+   },
+   {
+    "type": "value",
+    "n": 5,
+    "emoji": "🤔",
+    "title": "Why? Your first pick was 1 in 3. That never changes.",
+    "big": "2 in 3 moves over",
+    "note": ""
+   },
+   {
+    "type": "value",
+    "n": 6,
+    "emoji": "💯",
+    "title": "Now try 100 doors. Host opens 98.",
+    "big": "Switch: 99 in 100",
+    "note": ""
+   },
+   {
+    "type": "cta",
+    "title": "Save this for game night.",
+    "keyword": "",
+    "emoji": "🏆",
+    "line": "Send it to the friend who'd never switch.",
+    "save": "Follow for daily odds"
+   }
+  ]
+ },
+ {
+  "id": "C03_birthday",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "The easiest bar bet you'll ever win.",
+    "title": "23 people? Bet on a shared birthday.",
+    "emoji": "🎂",
+    "big": ""
+   },
+   {
+    "type": "value",
+    "n": 1,
+    "emoji": "👥",
+    "title": "10 people in a room",
+    "big": "11.7%",
+    "note": "Chance two share a birthday"
+   },
+   {
+    "type": "value",
+    "n": 2,
+    "emoji": "🎉",
+    "title": "23 people",
+    "big": "50.7%",
+    "note": "Better than a coin flip"
+   },
+   {
+    "type": "value",
+    "n": 3,
+    "emoji": "🏫",
+    "title": "30 people, one classroom",
+    "big": "70.6%",
+    "note": ""
+   },
+   {
+    "type": "value",
+    "n": 4,
+    "emoji": "🏢",
+    "title": "50 people",
+    "big": "97%",
+    "note": ""
+   },
+   {
+    "type": "value",
+    "n": 5,
+    "emoji": "🏟️",
+    "title": "70 people",
+    "big": "99.9%",
+    "note": "Basically guaranteed"
+   },
+   {
+    "type": "value",
+    "n": 6,
+    "emoji": "🫵",
+    "title": "But YOUR birthday, in a room of 23?",
+    "big": "Only 5.9%",
+    "note": "Bet on any pair, never on you"
+   },
+   {
+    "type": "cta",
+    "title": "Save this before your next party.",
+    "keyword": "",
+    "emoji": "🍻",
+    "line": "Send it to the friend you'll win this bet against.",
+    "save": "Follow for daily odds"
+   }
+  ]
+ },
+ {
+  "id": "C04_casino",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Casinos never say this number out loud.",
+    "title": "How much each bet takes per $100.",
+    "emoji": "🎰",
+    "big": ""
+   },
+   {
+    "type": "value",
+    "n": 1,
+    "emoji": "🔴",
+    "title": "American roulette",
+    "big": "$5.26 per $100",
+    "note": "Two green zeros"
+   },
+   {
+    "type": "value",
+    "n": 2,
+    "emoji": "🔴",
+    "title": "European roulette",
+    "big": "$2.70 per $100",
+    "note": "One green zero. Half the cost."
+   },
+   {
+    "type": "value",
+    "n": 3,
+    "emoji": "🎲",
+    "title": "Craps: pass line",
+    "big": "$1.41 per $100",
+    "note": ""
+   },
+   {
+    "type": "value",
+    "n": 4,
+    "emoji": "🃏",
+    "title": "Baccarat: bet the banker",
+    "big": "$1.06 per $100",
+    "note": ""
+   },
+   {
+    "type": "value",
+    "n": 5,
+    "emoji": "♠️",
+    "title": "Blackjack with basic strategy",
+    "big": "About 50¢ per $100",
+    "note": "Depends on table rules"
+   },
+   {
+    "type": "value",
+    "n": 6,
+    "emoji": "🏠",
+    "title": "Every bet still loses over time.",
+    "big": "The house always has the edge",
+    "note": ""
+   },
+   {
+    "type": "cta",
+    "title": "Save this for your next casino trip.",
+    "keyword": "",
+    "emoji": "💸",
+    "line": "Send it to the friend who always plays roulette.",
+    "save": "Follow for daily odds"
+   }
+  ]
+ }
+]

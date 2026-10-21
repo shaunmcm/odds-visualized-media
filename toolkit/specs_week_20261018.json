@@ -1,0 +1,105 @@
+[
+ {
+  "id": "W01_week",
+  "hook": {
+   "top": "This week's rarest odds, ranked.",
+   "big": "1 in 8 x 10^67",
+   "bottom": "The last one happens every time you shuffle.",
+   "ask": "Guess what it is before the end.",
+   "explain": "14 real odds from this week, from everyday to impossible"
+  },
+  "stops": [
+   {
+    "emoji": "✍️",
+    "label": "Being left-handed",
+    "num": "1 in 9",
+    "source": "Papadatou-Pastou et al. 2020"
+   },
+   {
+    "emoji": "🎓",
+    "label": "Getting into Harvard",
+    "num": "1 in 24",
+    "source": "Harvard Class of 2029 (Harvard Crimson)"
+   },
+   {
+    "emoji": "🎲",
+    "label": "Double sixes",
+    "num": "1 in 36",
+    "source": "Math: 1/36"
+   },
+   {
+    "emoji": "🏀",
+    "label": "College player to the NBA",
+    "num": "1 in 100",
+    "source": "NCAA Research"
+   },
+   {
+    "emoji": "🚀",
+    "label": "Becoming a NASA astronaut",
+    "num": "1 in 1,200",
+    "source": "NASA 2021 class: 10 of 12,000+"
+   },
+   {
+    "emoji": "🎯",
+    "label": "Yahtzee in one roll",
+    "num": "1 in 1,296",
+    "source": "Math: 6/6^5"
+   },
+   {
+    "emoji": "🐸",
+    "label": "Born on February 29",
+    "num": "1 in 1,506",
+    "source": "Math: 97 leap days per 146,097"
+   },
+   {
+    "emoji": "⛳",
+    "label": "A hole-in-one",
+    "num": "1 in 12,500",
+    "source": "Hole-in-One Registry via PGA.com"
+   },
+   {
+    "emoji": "⚡",
+    "label": "Struck by lightning",
+    "num": "1 in 15,300",
+    "source": "National Weather Service (lifetime)"
+   },
+   {
+    "emoji": "🐝",
+    "label": "Killed by a bee",
+    "num": "1 in 42,626",
+    "source": "NSC Injury Facts (2024)"
+   },
+   {
+    "emoji": "👑",
+    "label": "A royal flush",
+    "num": "1 in 649,740",
+    "source": "Math: 4/2,598,960"
+   },
+   {
+    "emoji": "🦈",
+    "label": "Killed by a shark",
+    "num": "1 in 3.7 million",
+    "source": "Florida Museum ISAF"
+   },
+   {
+    "emoji": "🎟️",
+    "label": "Winning the Powerball",
+    "num": "1 in 292 million",
+    "source": "Official Powerball odds"
+   },
+   {
+    "emoji": "♠️",
+    "label": "All 13 spades",
+    "num": "1 in 635 billion",
+    "source": "Math: 1/C(52,13)"
+   }
+  ],
+  "payoff": {
+   "emoji": "🃏",
+   "label": "A shuffled deck's exact order",
+   "num": "1 in 8 x 10^67",
+   "line": "Every shuffle you've done was probably a first in history.",
+   "source": "Math: 52! ≈ 8.07 x 10^67"
+  }
+ }
+]

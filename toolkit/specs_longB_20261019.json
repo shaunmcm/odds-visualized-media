@@ -1,0 +1,97 @@
+[
+ {
+  "id": "L07_guessing",
+  "hook": {
+   "emoji": "🔐",
+   "top": "Guessing my password daily takes",
+   "num": "572 million years",
+   "bottom": "",
+   "loop": "The first one takes 2 days..."
+  },
+  "items": [
+   {
+    "emoji": "🪙",
+    "label": "Guess a coin flip",
+    "denom": 2,
+    "wait": "2 days",
+    "context": "",
+    "source": ""
+   },
+   {
+    "emoji": "📅",
+    "label": "Guess the weekday I was born",
+    "denom": 7,
+    "wait": "7 days",
+    "context": "",
+    "source": ""
+   },
+   {
+    "emoji": "🗓️",
+    "label": "Guess my birth month",
+    "denom": 12,
+    "wait": "12 days",
+    "context": "",
+    "source": ""
+   },
+   {
+    "emoji": "🎂",
+    "label": "Guess my birthday",
+    "denom": 365,
+    "wait": "1 year",
+    "context": "",
+    "source": ""
+   },
+   {
+    "emoji": "🔒",
+    "label": "Crack a 3-digit lock",
+    "denom": 1000,
+    "wait": "2.7 years",
+    "context": "",
+    "source": ""
+   },
+   {
+    "emoji": "🔢",
+    "label": "Guess a 4-digit PIN",
+    "denom": 10000,
+    "wait": "27 years",
+    "context": "",
+    "source": ""
+   },
+   {
+    "emoji": "📮",
+    "label": "Guess a 5-digit code",
+    "denom": 100000,
+    "wait": "274 years",
+    "context": "",
+    "source": ""
+   },
+   {
+    "emoji": "📱",
+    "label": "Guess a 6-digit code",
+    "denom": 1000000,
+    "wait": "2,738 years",
+    "context": "",
+    "source": ""
+   },
+   {
+    "emoji": "☎️",
+    "label": "Guess a 7-digit number",
+    "denom": 10000000,
+    "wait": "27,379 years",
+    "context": "",
+    "source": ""
+   },
+   {
+    "emoji": "🔐",
+    "label": "Guess an 8-letter password",
+    "denom": 208827064576,
+    "wait": "572 million years",
+    "context": "",
+    "source": ""
+   }
+  ],
+  "outro_top": "Use a long password.",
+  "outro_line": "Every extra letter makes it 26 times harder.",
+  "outro_cta": "Subscribe for more odds"
+ }
+]

@@ -1,0 +1,16 @@
+[{"id":"S01_shark_bee","series":"RARER THAN YOU THINK · PART 1","follow":"Follow for Part 2","headline":"Bees kill more than sharks.","bg_from":"#B91C1C","bg_to":"#1D4ED8",
+ "hook":{"left":{"emoji":"🦈"},"right":{"emoji":"🐝"}},
+ "items":[
+  {"emoji":"❤️","label":"Heart disease","num":"1 in 6","n":6},
+  {"emoji":"🎗️","label":"Cancer","num":"1 in 7","n":7},
+  {"emoji":"🪜","label":"A fall","num":"1 in 89","n":89},
+  {"emoji":"🚗","label":"Car crash","num":"1 in 101","n":101},
+  {"emoji":"🚶","label":"Hit while walking","num":"1 in 492","n":492},
+  {"emoji":"🌊","label":"Drowning","num":"1 in 1,025","n":1025},
+  {"emoji":"🍔","label":"Choking on food","num":"1 in 2,367","n":2367},
+  {"emoji":"🐕","label":"Dog attack","num":"1 in 33,899","n":33899},
+  {"emoji":"🐝","label":"Bee / wasp sting","num":"1 in 42,626","n":42626},
+  {"emoji":"🦈","label":"SHARK ATTACK","num":"1 in 3.7 MILLION","n":3748067}],
+ "final_line":"88x rarer than a bee sting.",
+ "cta":"Bees are scarier than sharks. Agree?","yes":"YES","no":"NO",
+ "source":"Lifetime odds of dying (US). NSC Injury Facts 2024; shark: Florida Museum ISAF"}]

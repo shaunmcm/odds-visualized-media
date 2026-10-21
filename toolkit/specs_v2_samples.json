@@ -1,0 +1,60 @@
+[
+ {
+  "id": "v2_holeinone",
+  "color": "#1E8E3E",
+  "emoji": "⛳",
+  "hook_top": "Your odds of a hole-in-one:",
+  "main_num": "1 in 12,500",
+  "open_loop": "...but what's even RARER?",
+  "counter_title": "Swing after swing...",
+  "counter_label": "Swing #",
+  "counter_n": 12500,
+  "hit_text": "HOLE IN ONE!",
+  "vs": {
+   "question": "Which is RARER?",
+   "a": {
+    "emoji": "⛳",
+    "label": "Hole-in-one",
+    "num": "1 in 12,500",
+    "p": 8e-05
+   },
+   "b": {
+    "emoji": "♠️",
+    "label": "Royal flush",
+    "num": "1 in 649,740",
+    "p": 1.5390771693292702e-06
+   }
+  },
+  "punch": "A royal flush is 52x rarer than a hole-in-one.",
+  "source": "Hole-in-One Registry via PGA.com; 5-card poker math"
+ },
+ {
+  "id": "v2_bracket",
+  "color": "#C2410C",
+  "emoji": "🏀",
+  "hook_top": "Odds of a perfect March Madness bracket:",
+  "main_num": "1 in 9.2 quintillion",
+  "open_loop": "...is the Powerball any easier?",
+  "counter_title": "Bracket after bracket...",
+  "counter_label": "Bracket #",
+  "counter_n": 9223372036854775808,
+  "hit_text": "FINALLY PERFECT!",
+  "vs": {
+   "question": "Which is RARER?",
+   "a": {
+    "emoji": "🏀",
+    "label": "Perfect bracket",
+    "num": "1 in 9.2 quintillion",
+    "p": 1.0842021724855044e-19
+   },
+   "b": {
+    "emoji": "🎟️",
+    "label": "Powerball jackpot",
+    "num": "1 in 292 million",
+    "p": 3.4222978130237033e-09
+   }
+  },
+  "punch": "A perfect bracket is about 32 BILLION times harder.",
+  "source": "Math: 2^63 if every game is a coin flip; Powerball official odds"
+ }
+]

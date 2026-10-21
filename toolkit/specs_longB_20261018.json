@@ -1,0 +1,89 @@
+[
+ {
+  "id": "L05_wait2",
+  "hook": {
+   "emoji": "🎟️",
+   "top": "Buy one Powerball ticket every day and you'd win in about",
+   "num": "800,000 years",
+   "bottom": "That's longer than humans have existed.",
+   "loop": "But the first one takes just 7 months..."
+  },
+  "items": [
+   {
+    "emoji": "😈",
+    "label": "Roll three sixes",
+    "denom": 216,
+    "wait": "7 months",
+    "context": "About one school year",
+    "source": "Odds: 1 in 216 (6^3). Average wait = 1 / odds tries"
+   },
+   {
+    "emoji": "🪙",
+    "label": "10 heads in a row",
+    "denom": 1024,
+    "wait": "2.8 years",
+    "context": "Almost 3 years of flipping",
+    "source": "Odds: 1 in 1,024 (2^10)"
+   },
+   {
+    "emoji": "4️⃣",
+    "label": "Four of a kind",
+    "denom": 4165,
+    "wait": "11 years",
+    "context": "Start at 7, finish at 18",
+    "source": "Odds: 1 in 4,165 (624 / 2,598,960 five-card hands)"
+   },
+   {
+    "emoji": "🧙",
+    "label": "Three natural 20s",
+    "denom": 8000,
+    "wait": "22 years",
+    "context": "Start at 18, finish at 40",
+    "source": "Odds: 1 in 8,000 ((1/20)^3)"
+   },
+   {
+    "emoji": "🔥",
+    "label": "A straight flush",
+    "denom": 72193,
+    "wait": "198 years",
+    "context": "Longer than any human has lived",
+    "source": "Odds: 1 in 72,193 (36 / 2,598,960)"
+   },
+   {
+    "emoji": "🔐",
+    "label": "Guess a 4-letter password",
+    "denom": 456976,
+    "wait": "1,251 years",
+    "context": "Start in 775 AD, finish today",
+    "source": "Odds: 1 in 456,976 (26^4)"
+   },
+   {
+    "emoji": "🤯",
+    "label": "20 heads in a row",
+    "denom": 1048576,
+    "wait": "2,871 years",
+    "context": "Longer than Rome has existed",
+    "source": "Odds: 1 in 1,048,576 (2^20); Rome founded 753 BC"
+   },
+   {
+    "emoji": "🎟️",
+    "label": "Win the Powerball",
+    "denom": 292201338,
+    "wait": "800,000 years",
+    "context": "Humans have existed ~300,000 years",
+    "source": "Odds: 1 in 292,201,338 (official Powerball odds)"
+   },
+   {
+    "emoji": "♠️",
+    "label": "Get all 13 spades",
+    "denom": 635013559600,
+    "wait": "1.7 billion years",
+    "context": "Older than life on land",
+    "source": "Odds: 1 in 635,013,559,600 bridge hands; land life ~500 million years"
+   }
+  ],
+  "outro_top": "Rare isn't impossible. It's slow.",
+  "outro_line": "Which of these would YOU try for? Tell us in the comments.",
+  "outro_cta": "SUBSCRIBE FOR DAILY ODDS"
+ }
+]

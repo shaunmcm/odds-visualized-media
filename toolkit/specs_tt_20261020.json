@@ -1,0 +1,172 @@
+[
+ {
+  "id": "T12_bracket",
+  "hook": {
+   "top": "Pick every game right?",
+   "big": "IMPOSSIBLE",
+   "bottom": "",
+   "ask": "Start with one game...",
+   "explain": ""
+  },
+  "stops": [
+   {
+    "emoji": "🏀",
+    "label": "Pick 1 game",
+    "num": "1 in 2",
+    "source": ""
+   },
+   {
+    "emoji": "✌️",
+    "label": "Pick 2 games",
+    "num": "1 in 4",
+    "source": ""
+   },
+   {
+    "emoji": "🤞",
+    "label": "Pick 3 games",
+    "num": "1 in 8",
+    "source": ""
+   },
+   {
+    "emoji": "🖐️",
+    "label": "Pick 5 games",
+    "num": "1 in 32",
+    "source": ""
+   },
+   {
+    "emoji": "🔟",
+    "label": "Pick 10 games",
+    "num": "1 in 1,024",
+    "source": ""
+   },
+   {
+    "emoji": "😮",
+    "label": "Pick 16 games",
+    "num": "1 in 65,536",
+    "source": ""
+   },
+   {
+    "emoji": "😳",
+    "label": "Pick 20 games",
+    "num": "1 in 1 million",
+    "source": ""
+   },
+   {
+    "emoji": "😱",
+    "label": "Pick 25 games",
+    "num": "1 in 33.6 million",
+    "source": ""
+   },
+   {
+    "emoji": "🤯",
+    "label": "Whole first round",
+    "num": "1 in 4.3 billion",
+    "source": ""
+   },
+   {
+    "emoji": "🌋",
+    "label": "First two rounds",
+    "num": "1 in 281 trillion",
+    "source": ""
+   },
+   {
+    "emoji": "🌌",
+    "label": "Pick 56 games",
+    "num": "1 in 72.1 quadrillion",
+    "source": ""
+   }
+  ],
+  "payoff": {
+   "emoji": "🏆",
+   "label": "The perfect bracket",
+   "num": "1 in 9.2 quintillion",
+   "line": "",
+   "source": ""
+  }
+ },
+ {
+  "id": "T13_books",
+  "hook": {
+   "top": "Drop books on a shelf.",
+   "big": "IN ORDER?",
+   "bottom": "",
+   "ask": "Start with two...",
+   "explain": ""
+  },
+  "stops": [
+   {
+    "emoji": "📚",
+    "label": "2 books",
+    "num": "1 in 2",
+    "source": ""
+   },
+   {
+    "emoji": "📗",
+    "label": "3 books",
+    "num": "1 in 6",
+    "source": ""
+   },
+   {
+    "emoji": "📘",
+    "label": "4 books",
+    "num": "1 in 24",
+    "source": ""
+   },
+   {
+    "emoji": "📙",
+    "label": "5 books",
+    "num": "1 in 120",
+    "source": ""
+   },
+   {
+    "emoji": "📕",
+    "label": "6 books",
+    "num": "1 in 720",
+    "source": ""
+   },
+   {
+    "emoji": "🗂️",
+    "label": "8 books",
+    "num": "1 in 40,320",
+    "source": ""
+   },
+   {
+    "emoji": "🗃️",
+    "label": "10 books",
+    "num": "1 in 3.6 million",
+    "source": ""
+   },
+   {
+    "emoji": "🏛️",
+    "label": "13 books",
+    "num": "1 in 6.2 billion",
+    "source": ""
+   },
+   {
+    "emoji": "🏫",
+    "label": "15 books",
+    "num": "1 in 1.3 trillion",
+    "source": ""
+   },
+   {
+    "emoji": "🌍",
+    "label": "20 books",
+    "num": "1 in 2.4 quintillion",
+    "source": ""
+   },
+   {
+    "emoji": "🌀",
+    "label": "25 books",
+    "num": "1 in 15.5 septillion",
+    "source": ""
+   }
+  ],
+  "payoff": {
+   "emoji": "🌌",
+   "label": "30 books",
+   "num": "1 in 265 nonillion",
+   "line": "",
+   "source": ""
+  }
+ }
+]

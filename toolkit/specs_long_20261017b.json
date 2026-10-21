@@ -1,0 +1,13 @@
+[{"id":"L03_cards","intro_color":"#14532D","outro_color":"#111827",
+ "hook":{"emoji":"♠️","top":"Being dealt all 13 spades in a bridge hand:","num":"1 in 635 billion","bottom":"Deal once a second and you'd wait about 20,000 years.","loop":"Let's start with a card you'll get 1 in 4 times..."},
+ "title_top":"","title_main":"","title_sub":"",
+ "rungs":[
+  {"emoji":"♥️","label":"Drawing a heart","num":"1 in 4","count":4,"log10":0.602,"context":"One suit out of four","source":"Math: 13 hearts / 52 cards","color":"#BE123C"},
+  {"emoji":"🅰️","label":"Drawing an ace","num":"1 in 13","count":13,"log10":1.114,"context":"Just 4 aces in 52 cards","source":"Math: 4 / 52","color":"#1D4ED8"},
+  {"emoji":"🔟","label":"A blackjack in your first 2 cards","num":"1 in 21","count":21,"log10":1.316,"context":"An ace plus any 10, J, Q or K","source":"Math: 128 / 2,652 two-card orders (one deck)","color":"#047857"},
+  {"emoji":"♠️","label":"Pulling the ace of spades","num":"1 in 52","count":52,"log10":1.716,"context":"Exactly one card in the deck","source":"Math: 1 / 52","color":"#334155"},
+  {"emoji":"👀","label":"Pocket aces in Texas Hold'em","num":"1 in 221","count":221,"log10":2.344,"context":"About once every 221 hands","source":"Math: 6 / 1,326 starting hands","color":"#7C2D12"},
+  {"emoji":"4️⃣","label":"Four of a kind (5 cards)","num":"1 in 4,165","count":4165,"log10":3.620,"context":"624 of 2.6 million possible hands","source":"Math: 624 / 2,598,960","color":"#6D28D9"},
+  {"emoji":"🔥","label":"A straight flush (not royal)","num":"1 in 72,193","count":72193,"log10":4.858,"context":"Only 36 hands in the whole deck","source":"Math: 36 / 2,598,960","color":"#C2410C"},
+  {"emoji":"🤯","label":"All 13 spades in a bridge hand","num":"1 in 635 billion","count":635013559600,"log10":11.803,"context":"Deal once a second: about 20,000 years","source":"Math: 1 / C(52,13) = 1 / 635,013,559,600","color":"#111827"}],
+ "outro_top":"Same 52 cards. Wildly different odds.","outro_line":"Which one have you actually been dealt? Tell us in the comments.","outro_cta":"SUBSCRIBE FOR DAILY ODDS"}]

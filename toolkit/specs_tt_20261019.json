@@ -1,0 +1,342 @@
+[
+ {
+  "id": "T08_powerball",
+  "hook": {
+   "top": "Powerball jackpot odds:",
+   "big": "1 in 292 million",
+   "bottom": "",
+   "ask": "Now every other prize...",
+   "explain": ""
+  },
+  "stops": [
+   {
+    "emoji": "🔴",
+    "label": "Just the Powerball",
+    "num": "1 in 38",
+    "source": ""
+   },
+   {
+    "emoji": "1️⃣",
+    "label": "1 number + Powerball",
+    "num": "1 in 92",
+    "source": ""
+   },
+   {
+    "emoji": "3️⃣",
+    "label": "3 white balls",
+    "num": "1 in 580",
+    "source": ""
+   },
+   {
+    "emoji": "2️⃣",
+    "label": "2 numbers + Powerball",
+    "num": "1 in 701",
+    "source": ""
+   },
+   {
+    "emoji": "🎯",
+    "label": "3 numbers + Powerball",
+    "num": "1 in 14,494",
+    "source": ""
+   },
+   {
+    "emoji": "4️⃣",
+    "label": "4 white balls",
+    "num": "1 in 36,525",
+    "source": ""
+   },
+   {
+    "emoji": "💵",
+    "label": "4 numbers + Powerball",
+    "num": "1 in 913,129",
+    "source": ""
+   },
+   {
+    "emoji": "💰",
+    "label": "All 5 white balls",
+    "num": "1 in 11.7 million",
+    "source": ""
+   },
+   {
+    "emoji": "🏆",
+    "label": "The jackpot",
+    "num": "1 in 292 million",
+    "source": ""
+   },
+   {
+    "emoji": "🔁",
+    "label": "Jackpot two draws in a row",
+    "num": "1 in 85.4 quadrillion",
+    "source": ""
+   },
+   {
+    "emoji": "🎰",
+    "label": "Jackpot 3 draws in a row",
+    "num": "1 in 24.9 septillion",
+    "source": ""
+   }
+  ],
+  "payoff": {
+   "emoji": "🌌",
+   "label": "Jackpot 4 draws in a row",
+   "num": "1 in 7.3 decillion",
+   "line": "",
+   "source": ""
+  }
+ },
+ {
+  "id": "T09_rarer",
+  "hook": {
+   "top": "Which is rarer?",
+   "big": "YOU DECIDE",
+   "bottom": "",
+   "ask": "Guess the rarest...",
+   "explain": ""
+  },
+  "stops": [
+   {
+    "emoji": "✋",
+    "label": "Being left-handed",
+    "num": "1 in 10",
+    "source": ""
+   },
+   {
+    "emoji": "👯",
+    "label": "Having twins",
+    "num": "1 in 32",
+    "source": ""
+   },
+   {
+    "emoji": "📅",
+    "label": "Born on Feb 29",
+    "num": "1 in 1,461",
+    "source": ""
+   },
+   {
+    "emoji": "🍀",
+    "label": "Four-leaf clover",
+    "num": "1 in 10,000",
+    "source": ""
+   },
+   {
+    "emoji": "⛳",
+    "label": "Hole-in-one",
+    "num": "1 in 12,500",
+    "source": ""
+   },
+   {
+    "emoji": "🃏",
+    "label": "Royal flush",
+    "num": "1 in 649,740",
+    "source": ""
+   },
+   {
+    "emoji": "🪙",
+    "label": "20 heads in a row",
+    "num": "1 in 1 million",
+    "source": ""
+   },
+   {
+    "emoji": "⚡",
+    "label": "Lightning this year",
+    "num": "1 in 1.2 million",
+    "source": ""
+   },
+   {
+    "emoji": "🎟️",
+    "label": "Powerball jackpot",
+    "num": "1 in 292 million",
+    "source": ""
+   },
+   {
+    "emoji": "🪙",
+    "label": "30 heads in a row",
+    "num": "1 in 1.1 billion",
+    "source": ""
+   },
+   {
+    "emoji": "🏀",
+    "label": "Perfect bracket",
+    "num": "1 in 9.2 quintillion",
+    "source": ""
+   }
+  ],
+  "payoff": {
+   "emoji": "🧩",
+   "label": "Solve a Rubik's cube by luck",
+   "num": "1 in 43.3 quintillion",
+   "line": "",
+   "source": ""
+  }
+ },
+ {
+  "id": "T10_guess",
+  "hook": {
+   "top": "Could you guess my secret?",
+   "big": "NOPE",
+   "bottom": "",
+   "ask": "Start with my coin...",
+   "explain": ""
+  },
+  "stops": [
+   {
+    "emoji": "🪙",
+    "label": "My coin flip",
+    "num": "1 in 2",
+    "source": ""
+   },
+   {
+    "emoji": "🎲",
+    "label": "My dice roll",
+    "num": "1 in 6",
+    "source": ""
+   },
+   {
+    "emoji": "🗓️",
+    "label": "My birth month",
+    "num": "1 in 12",
+    "source": ""
+   },
+   {
+    "emoji": "🃏",
+    "label": "My card",
+    "num": "1 in 52",
+    "source": ""
+   },
+   {
+    "emoji": "🎂",
+    "label": "My birthday",
+    "num": "1 in 365",
+    "source": ""
+   },
+   {
+    "emoji": "🔢",
+    "label": "My 4-digit PIN",
+    "num": "1 in 10,000",
+    "source": ""
+   },
+   {
+    "emoji": "📆",
+    "label": "Birthday + year",
+    "num": "1 in 36,525",
+    "source": ""
+   },
+   {
+    "emoji": "📱",
+    "label": "My 6-digit code",
+    "num": "1 in 1 million",
+    "source": ""
+   },
+   {
+    "emoji": "☎️",
+    "label": "My phone number",
+    "num": "1 in 10 billion",
+    "source": ""
+   },
+   {
+    "emoji": "🔐",
+    "label": "My 8-letter password",
+    "num": "1 in 209 billion",
+    "source": ""
+   },
+   {
+    "emoji": "🗝️",
+    "label": "My 12-letter password",
+    "num": "1 in 95.4 quadrillion",
+    "source": ""
+   }
+  ],
+  "payoff": {
+   "emoji": "🛡️",
+   "label": "My 16-letter password",
+   "num": "1 in 43.6 sextillion",
+   "line": "",
+   "source": ""
+  }
+ },
+ {
+  "id": "T11_d20",
+  "hook": {
+   "top": "Roll natural 20s in a row.",
+   "big": "HOW MANY?",
+   "bottom": "",
+   "ask": "Start with one...",
+   "explain": ""
+  },
+  "stops": [
+   {
+    "emoji": "🎲",
+    "label": "One natural 20",
+    "num": "1 in 20",
+    "source": ""
+   },
+   {
+    "emoji": "✌️",
+    "label": "Two in a row",
+    "num": "1 in 400",
+    "source": ""
+   },
+   {
+    "emoji": "🤞",
+    "label": "Three in a row",
+    "num": "1 in 8,000",
+    "source": ""
+   },
+   {
+    "emoji": "😮",
+    "label": "Four in a row",
+    "num": "1 in 160,000",
+    "source": ""
+   },
+   {
+    "emoji": "😳",
+    "label": "Five in a row",
+    "num": "1 in 3.2 million",
+    "source": ""
+   },
+   {
+    "emoji": "😱",
+    "label": "Six in a row",
+    "num": "1 in 64 million",
+    "source": ""
+   },
+   {
+    "emoji": "🧙",
+    "label": "Seven in a row",
+    "num": "1 in 1.3 billion",
+    "source": ""
+   },
+   {
+    "emoji": "🔥",
+    "label": "Eight in a row",
+    "num": "1 in 25.6 billion",
+    "source": ""
+   },
+   {
+    "emoji": "🌋",
+    "label": "Nine in a row",
+    "num": "1 in 512 billion",
+    "source": ""
+   },
+   {
+    "emoji": "🐉",
+    "label": "Ten in a row",
+    "num": "1 in 10.2 trillion",
+    "source": ""
+   },
+   {
+    "emoji": "🌌",
+    "label": "Fifteen in a row",
+    "num": "1 in 32.8 quintillion",
+    "source": ""
+   }
+  ],
+  "payoff": {
+   "emoji": "👑",
+   "label": "Twenty in a row",
+   "num": "1 in 105 septillion",
+   "line": "",
+   "source": ""
+  }
+ }
+]

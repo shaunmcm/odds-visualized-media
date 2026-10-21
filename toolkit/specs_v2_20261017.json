@@ -1,0 +1,292 @@
+[
+ {
+  "id": "v3_astronaut",
+  "color": "#1D3A8A",
+  "emoji": "🚀",
+  "hook_top": "Odds of becoming a NASA astronaut:",
+  "main_num": "1 in 1,200",
+  "open_loop": "...is Harvard any easier?",
+  "counter_title": "Applicant after applicant...",
+  "counter_label": "Applicant #",
+  "counter_n": 1200,
+  "hit_text": "YOU'RE GOING TO SPACE!",
+  "vs": {
+   "question": "Which is RARER?",
+   "a": {
+    "emoji": "🚀",
+    "label": "NASA astronaut",
+    "num": "1 in 1,200",
+    "p": 0.0008333333333333334
+   },
+   "b": {
+    "emoji": "🎓",
+    "label": "Harvard admit",
+    "num": "1 in 24",
+    "p": 0.04182239575720878
+   }
+  },
+  "punch": "Becoming an astronaut is about 50x harder.",
+  "source": "NASA 2021 class (12,000+ applied, 10 picked); Harvard Class of 2029"
+ },
+ {
+  "id": "v3_birthday23",
+  "color": "#DB2777",
+  "emoji": "🎂",
+  "hook_top": "Odds someone in a room of 23 has YOUR birthday:",
+  "main_num": "1 in 17",
+  "open_loop": "...so why do two people match HALF the time?",
+  "counter_title": "Room after room...",
+  "counter_label": "Room #",
+  "counter_n": 17,
+  "hit_text": "BIRTHDAY TWIN!",
+  "vs": {
+   "question": "Which is RARER?",
+   "a": {
+    "emoji": "🎂",
+    "label": "Someone has YOUR birthday",
+    "num": "1 in 17",
+    "p": 0.058571325264343166
+   },
+   "b": {
+    "emoji": "👯",
+    "label": "ANY two match",
+    "num": "1 in 2",
+    "p": 0.507
+   }
+  },
+  "punch": "Matching YOU is about 9x rarer than any match.",
+  "source": "Math: the birthday problem, 23 people, 365 days"
+ },
+ {
+  "id": "v3_rubiks",
+  "color": "#0F766E",
+  "emoji": "🧩",
+  "hook_top": "Odds a random Rubik's Cube is already solved:",
+  "main_num": "1 in 43 quintillion",
+  "open_loop": "...but a deck of cards is WAY rarer",
+  "counter_title": "Scramble after scramble...",
+  "counter_label": "Scramble #",
+  "counter_n": 43252003274489856000,
+  "hit_text": "SOLVED!",
+  "vs": {
+   "question": "Which is RARER?",
+   "a": {
+    "emoji": "🧩",
+    "label": "Random cube is solved",
+    "num": "1 in 43 quintillion",
+    "p": 2.3120316385202038e-20
+   },
+   "b": {
+    "emoji": "🃏",
+    "label": "Deck in exact order",
+    "num": "1 in 8 x 10^67",
+    "p": 1.2398026234223511e-68
+   }
+  },
+  "punch": "An ordered deck is ~2x10^48 times rarer.",
+  "source": "Math: 43,252,003,274,489,856,000 cube states; 52! deck orders"
+ },
+ {
+  "id": "v3_nba",
+  "color": "#EA580C",
+  "emoji": "🏀",
+  "hook_top": "Odds a college basketball player gets drafted to the NBA:",
+  "main_num": "1 in 100",
+  "open_loop": "...is baseball any easier?",
+  "counter_title": "Player after player...",
+  "counter_label": "Player #",
+  "counter_n": 100,
+  "hit_text": "DRAFTED!",
+  "vs": {
+   "question": "Which is RARER?",
+   "a": {
+    "emoji": "🏀",
+    "label": "NCAA to NBA draft",
+    "num": "1 in 100",
+    "p": 0.01
+   },
+   "b": {
+    "emoji": "⚾",
+    "label": "NCAA to MLB draft",
+    "num": "1 in 20",
+    "p": 0.049
+   }
+  },
+  "punch": "The NBA is about 5x harder to reach.",
+  "source": "NCAA Research: probability of competing beyond college (2024-25)"
+ },
+ {
+  "id": "v3_leapday",
+  "color": "#65A30D",
+  "emoji": "🐸",
+  "hook_top": "Odds of being born on February 29:",
+  "main_num": "1 in 1,506",
+  "open_loop": "...but are lefties actually rare?",
+  "counter_title": "Baby after baby...",
+  "counter_label": "Baby #",
+  "counter_n": 1506,
+  "hit_text": "LEAP DAY BABY!",
+  "vs": {
+   "question": "Which is RARER?",
+   "a": {
+    "emoji": "🐸",
+    "label": "Born on Feb 29",
+    "num": "1 in 1,506",
+    "p": 0.000663942449194713
+   },
+   "b": {
+    "emoji": "✍️",
+    "label": "Left-handed",
+    "num": "1 in 9",
+    "p": 0.106
+   }
+  },
+  "punch": "A leap-day birthday is about 160x rarer.",
+  "source": "Math: 97 leap days per 146,097; Papadatou-Pastou et al. 2020"
+ },
+ {
+  "id": "v3_yahtzee",
+  "color": "#7C3AED",
+  "emoji": "🎲",
+  "hook_top": "Odds of a Yahtzee in ONE roll:",
+  "main_num": "1 in 1,296",
+  "open_loop": "...but what about double sixes?",
+  "counter_title": "Roll after roll...",
+  "counter_label": "Roll #",
+  "counter_n": 1296,
+  "hit_text": "YAHTZEE!",
+  "vs": {
+   "question": "Which is RARER?",
+   "a": {
+    "emoji": "🎲",
+    "label": "Yahtzee in one roll",
+    "num": "1 in 1,296",
+    "p": 0.0007716049382716049
+   },
+   "b": {
+    "emoji": "6️⃣",
+    "label": "Double sixes",
+    "num": "1 in 36",
+    "p": 0.027777777777777776
+   }
+  },
+  "punch": "A one-roll Yahtzee is 36x rarer.",
+  "source": "Math: 6/6^5 for five dice; 1/36 for two dice"
+ },
+ {
+  "id": "v3_pin6",
+  "color": "#334155",
+  "emoji": "🔐",
+  "hook_top": "Odds of guessing a 6-digit PIN first try:",
+  "main_num": "1 in 1,000,000",
+  "open_loop": "...is a 4-letter password safer?",
+  "counter_title": "Guess after guess...",
+  "counter_label": "Guess #",
+  "counter_n": 1000000,
+  "hit_text": "UNLOCKED!",
+  "vs": {
+   "question": "Which is RARER?",
+   "a": {
+    "emoji": "🔢",
+    "label": "Guess a 6-digit PIN",
+    "num": "1 in 1,000,000",
+    "p": 1e-06
+   },
+   "b": {
+    "emoji": "🔤",
+    "label": "Guess a 4-letter password",
+    "num": "1 in 456,976",
+    "p": 2.1882987290360982e-06
+   }
+  },
+  "punch": "A 6-digit PIN is about 2x harder to guess.",
+  "source": "Math: 10^6 PINs; 26^4 lowercase passwords"
+ },
+ {
+  "id": "v3_nat20",
+  "color": "#B91C1C",
+  "emoji": "🧙",
+  "hook_top": "Odds of rolling three natural 20s in a row:",
+  "main_num": "1 in 8,000",
+  "open_loop": "...is anything this lucky RARER?",
+  "counter_title": "Roll after roll...",
+  "counter_label": "Roll #",
+  "counter_n": 8000,
+  "hit_text": "CRITICAL HIT x3!",
+  "vs": {
+   "question": "Which is RARER?",
+   "a": {
+    "emoji": "🧙",
+    "label": "Three nat 20s",
+    "num": "1 in 8,000",
+    "p": 0.000125
+   },
+   "b": {
+    "emoji": "🔑",
+    "label": "Guess a 4-digit PIN",
+    "num": "1 in 10,000",
+    "p": 0.0001
+   }
+  },
+  "punch": "Plot twist: guessing a PIN is rarer!",
+  "source": "Math: (1/20)^3; 10^4 PINs"
+ },
+ {
+  "id": "v3_friday13",
+  "color": "#111827",
+  "emoji": "🔮",
+  "hook_top": "Odds of being born on a Friday the 13th:",
+  "main_num": "1 in 212",
+  "open_loop": "...but which spooky number is rarer?",
+  "counter_title": "Birthday after birthday...",
+  "counter_label": "Baby #",
+  "counter_n": 212,
+  "hit_text": "FRIDAY THE 13TH!",
+  "vs": {
+   "question": "Which is RARER?",
+   "a": {
+    "emoji": "🔮",
+    "label": "Born on Friday the 13th",
+    "num": "1 in 212",
+    "p": 0.004709200052020233
+   },
+   "b": {
+    "emoji": "🎲",
+    "label": "Roll triple sixes",
+    "num": "1 in 216",
+    "p": 0.004629629629629629
+   }
+  },
+  "punch": "Almost a tie! Triple sixes win by a hair.",
+  "source": "Math: 688 Friday-13ths per 146,097 days; (1/6)^3"
+ },
+ {
+  "id": "v3_acespades",
+  "color": "#0E7490",
+  "emoji": "♠️",
+  "hook_top": "Odds of drawing the ace of spades twice in a row:",
+  "main_num": "1 in 2,704",
+  "open_loop": "...or guessing a stranger's birthday?",
+  "counter_title": "Draw after draw...",
+  "counter_label": "Draw #",
+  "counter_n": 2704,
+  "hit_text": "ACE AGAIN!",
+  "vs": {
+   "question": "Which is RARER?",
+   "a": {
+    "emoji": "🃏",
+    "label": "Ace of spades twice",
+    "num": "1 in 2,704",
+    "p": 0.0003698224852071006
+   },
+   "b": {
+    "emoji": "🎉",
+    "label": "Guess a birthday",
+    "num": "1 in 365",
+    "p": 0.0027397260273972603
+   }
+  },
+  "punch": "Two aces of spades is about 7x rarer.",
+  "source": "Math: (1/52)^2 with the card put back; 1/365"
+ }
+]

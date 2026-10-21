@@ -1,0 +1,342 @@
+[
+ {
+  "id": "T01_coins",
+  "hook": {
+   "top": "Flip a coin 100 times.",
+   "big": "ALL HEADS?",
+   "bottom": "Guess the odds before the end.",
+   "ask": "It gets ridiculous fast...",
+   "explain": "Coin & dice odds, ranked easy to impossible"
+  },
+  "stops": [
+   {
+    "emoji": "🪙",
+    "label": "Heads",
+    "num": "1 in 2",
+    "source": "Math: 1/2"
+   },
+   {
+    "emoji": "🎲",
+    "label": "Roll a 6",
+    "num": "1 in 6",
+    "source": "Math: 1/6"
+   },
+   {
+    "emoji": "🪙",
+    "label": "5 heads in a row",
+    "num": "1 in 32",
+    "source": "Math: 2^5"
+   },
+   {
+    "emoji": "🐍",
+    "label": "Snake eyes",
+    "num": "1 in 36",
+    "source": "Math: 1/6 x 1/6"
+   },
+   {
+    "emoji": "😈",
+    "label": "Triple sixes",
+    "num": "1 in 216",
+    "source": "Math: 6^3"
+   },
+   {
+    "emoji": "🔟",
+    "label": "10 heads in a row",
+    "num": "1 in 1,024",
+    "source": "Math: 2^10"
+   },
+   {
+    "emoji": "🎯",
+    "label": "Yahtzee, one roll",
+    "num": "1 in 1,296",
+    "source": "Math: 6 / 6^5"
+   },
+   {
+    "emoji": "🎲",
+    "label": "Six dice, all 6s",
+    "num": "1 in 46,656",
+    "source": "Math: 6^6"
+   },
+   {
+    "emoji": "🤯",
+    "label": "20 heads in a row",
+    "num": "1 in 1 million",
+    "source": "Math: 2^20 = 1,048,576"
+   },
+   {
+    "emoji": "🎰",
+    "label": "Ten 6s in a row",
+    "num": "1 in 60 million",
+    "source": "Math: 6^10 = 60,466,176"
+   },
+   {
+    "emoji": "🌌",
+    "label": "50 heads in a row",
+    "num": "1 in 1 quadrillion",
+    "source": "Math: 2^50 = 1,125,899,906,842,624"
+   }
+  ],
+  "payoff": {
+   "emoji": "💀",
+   "label": "100 heads in a row",
+   "num": "1 in 10^30",
+   "line": "Flip once a second since the Big Bang: still wouldn't happen.",
+   "source": "Math: 2^100 ≈ 1.27 x 10^30; universe ≈ 4.4 x 10^17 seconds old"
+  }
+ },
+ {
+  "id": "T02_poker",
+  "hook": {
+   "top": "A royal flush is 1 in 649,740.",
+   "big": "NOT THE RAREST",
+   "bottom": "Wait for the last hand.",
+   "ask": "Guess it before the end.",
+   "explain": "Card hands, ranked common to rarest"
+  },
+  "stops": [
+   {
+    "emoji": "♥️",
+    "label": "Draw a heart",
+    "num": "1 in 4",
+    "source": "Math: 13/52"
+   },
+   {
+    "emoji": "🅰️",
+    "label": "Draw an ace",
+    "num": "1 in 13",
+    "source": "Math: 4/52"
+   },
+   {
+    "emoji": "👯",
+    "label": "A pair, first 2 cards",
+    "num": "1 in 17",
+    "source": "Math: 3/51"
+   },
+   {
+    "emoji": "🔟",
+    "label": "Blackjack",
+    "num": "1 in 21",
+    "source": "Math: ace + 10-value, first 2 cards, one deck"
+   },
+   {
+    "emoji": "♠️",
+    "label": "The ace of spades",
+    "num": "1 in 52",
+    "source": "Math: 1/52"
+   },
+   {
+    "emoji": "👀",
+    "label": "Pocket aces",
+    "num": "1 in 221",
+    "source": "Math: 6/1,326"
+   },
+   {
+    "emoji": "🌊",
+    "label": "A flush",
+    "num": "1 in 509",
+    "source": "Math: 5,108 / 2,598,960 five-card hands"
+   },
+   {
+    "emoji": "🏠",
+    "label": "A full house",
+    "num": "1 in 694",
+    "source": "Math: 3,744 / 2,598,960"
+   },
+   {
+    "emoji": "4️⃣",
+    "label": "Four of a kind",
+    "num": "1 in 4,165",
+    "source": "Math: 624 / 2,598,960"
+   },
+   {
+    "emoji": "🔥",
+    "label": "Straight flush",
+    "num": "1 in 72,193",
+    "source": "Math: 36 / 2,598,960 (not royal)"
+   },
+   {
+    "emoji": "👑",
+    "label": "Royal flush",
+    "num": "1 in 649,740",
+    "source": "Math: 4 / 2,598,960"
+   }
+  ],
+  "payoff": {
+   "emoji": "🤯",
+   "label": "All 13 spades",
+   "num": "1 in 635 BILLION",
+   "line": "Deal one hand a second: about 20,000 years.",
+   "source": "Math: 1 / C(52,13) = 1 / 635,013,559,600 bridge hands"
+  }
+ },
+ {
+  "id": "T03_passwords",
+  "hook": {
+   "top": "Your 12-character password:",
+   "big": "17 MILLION YEARS",
+   "bottom": "to guess, at a billion tries a second.",
+   "ask": "Watch how fast it climbs...",
+   "explain": "Passwords ranked: easiest to hardest"
+  },
+  "stops": [
+   {
+    "emoji": "🔢",
+    "label": "Guess one digit",
+    "num": "1 in 10",
+    "source": "Math: 10 digits"
+   },
+   {
+    "emoji": "🔤",
+    "label": "Guess one letter",
+    "num": "1 in 26",
+    "source": "Math: 26 letters"
+   },
+   {
+    "emoji": "💯",
+    "label": "Guess a 2-digit code",
+    "num": "1 in 100",
+    "source": "Math: 10^2"
+   },
+   {
+    "emoji": "🎂",
+    "label": "Guess a birthday",
+    "num": "1 in 365",
+    "source": "Math: 365 days"
+   },
+   {
+    "emoji": "🏧",
+    "label": "Guess a 4-digit PIN",
+    "num": "1 in 10,000",
+    "source": "Math: 10^4"
+   },
+   {
+    "emoji": "🔡",
+    "label": "3-letter password",
+    "num": "1 in 17,576",
+    "source": "Math: 26^3"
+   },
+   {
+    "emoji": "🔐",
+    "label": "4-letter password",
+    "num": "1 in 456,976",
+    "source": "Math: 26^4"
+   },
+   {
+    "emoji": "📱",
+    "label": "6-digit PIN",
+    "num": "1 in 1 million",
+    "source": "Math: 10^6"
+   },
+   {
+    "emoji": "📞",
+    "label": "A phone number",
+    "num": "1 in 10 billion",
+    "source": "Math: 10^10"
+   },
+   {
+    "emoji": "🔑",
+    "label": "8 lowercase letters",
+    "num": "1 in 209 billion",
+    "source": "Math: 26^8 = 208,827,064,576"
+   },
+   {
+    "emoji": "🛡️",
+    "label": "8 letters + numbers",
+    "num": "1 in 218 trillion",
+    "source": "Math: 62^8 = 218,340,105,584,896"
+   }
+  ],
+  "payoff": {
+   "emoji": "🏰",
+   "label": "12 chars, full keyboard",
+   "num": "1 in 540 sextillion",
+   "line": "Guess a billion a second: 17 million years to try them all.",
+   "source": "Math: 95^12 ≈ 5.4 x 10^23; / 10^9 per second ≈ 17 million years"
+  }
+ },
+ {
+  "id": "T04_guessing",
+  "hook": {
+   "top": "Guess every answer on a 30-question test:",
+   "big": "1 in 1 QUINTILLION",
+   "bottom": "Here's how fast guessing falls apart.",
+   "ask": "Start easy...",
+   "explain": "Guessing games, ranked easy to impossible"
+  },
+  "stops": [
+   {
+    "emoji": "🪙",
+    "label": "Call a coin flip",
+    "num": "1 in 2",
+    "source": "Math: 1/2"
+   },
+   {
+    "emoji": "♣️",
+    "label": "Guess a card's suit",
+    "num": "1 in 4",
+    "source": "Math: 1/4"
+   },
+   {
+    "emoji": "🎲",
+    "label": "Guess a die roll",
+    "num": "1 in 6",
+    "source": "Math: 1/6"
+   },
+   {
+    "emoji": "🃏",
+    "label": "Guess a card's rank",
+    "num": "1 in 13",
+    "source": "Math: 1/13"
+   },
+   {
+    "emoji": "🎴",
+    "label": "Guess the exact card",
+    "num": "1 in 52",
+    "source": "Math: 1/52"
+   },
+   {
+    "emoji": "✊",
+    "label": "Win rock-paper-scissors 5x",
+    "num": "1 in 243",
+    "source": "Math: (1/3)^5, ignoring ties"
+   },
+   {
+    "emoji": "✅",
+    "label": "Ace a 10-question T/F quiz",
+    "num": "1 in 1,024",
+    "source": "Math: 2^10, pure guessing"
+   },
+   {
+    "emoji": "♠️",
+    "label": "Ace of spades twice",
+    "num": "1 in 2,704",
+    "source": "Math: (1/52)^2, card put back"
+   },
+   {
+    "emoji": "💯",
+    "label": "Pick 1-100 right 3x",
+    "num": "1 in 1 million",
+    "source": "Math: 100^3"
+   },
+   {
+    "emoji": "📝",
+    "label": "Ace 10 A/B/C/D questions",
+    "num": "1 in 1 million",
+    "source": "Math: 4^10 = 1,048,576"
+   },
+   {
+    "emoji": "📚",
+    "label": "Ace 20 A/B/C/D questions",
+    "num": "1 in 1.1 trillion",
+    "source": "Math: 4^20 = 1,099,511,627,776"
+   }
+  ],
+  "payoff": {
+   "emoji": "🎓",
+   "label": "Ace 30 A/B/C/D questions",
+   "num": "1 in 1.2 QUINTILLION",
+   "line": "Guess one full test a second: 36 billion years.",
+   "source": "Math: 4^30 ≈ 1.15 x 10^18; ÷ seconds per year ≈ 36.5 billion years"
+  }
+ }
+]
