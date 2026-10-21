@@ -60,3 +60,5 @@ blank line · 5 hashtags max incl. #fyp and #oddsvisualized. Never write "#<numb
 
 ## WEEKLY (Sunday) — add to the GROWTH.md review
 Rank IG posts by saves+shares per reach (IG insights if available). Double the formats in the top 3, retire the bottom 3.
+
+## ACCURACY: STATE THE ASSUMPTION (user, Oct 21). If odds assume blind guessing / equal chances, say so on screen ("If you guess blindly") and in the caption. Never present coin-flip math as real-world odds for sports or skill (bracket: blind 1 in 9.2 quintillion vs NCAA informed-fan estimate ~1 in 120.2 billion).
