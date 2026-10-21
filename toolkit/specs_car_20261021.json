@@ -1,0 +1,70 @@
+[
+ {
+  "id": "C05_dice",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Board game players lose to this math.",
+    "title": "Two dice. Some numbers win more.",
+    "emoji": "🎲",
+    "big": ""
+   },
+   {
+    "type": "value",
+    "n": 1,
+    "emoji": "7️⃣",
+    "title": "7 comes up most",
+    "big": "1 in 6 rolls",
+    "note": "6 of 36 combos"
+   },
+   {
+    "type": "value",
+    "n": 2,
+    "emoji": "🏆",
+    "title": "6 and 8 are the best spots",
+    "big": "5 in 36 each",
+    "note": "13.9% of every roll"
+   },
+   {
+    "type": "value",
+    "n": 3,
+    "emoji": "5️⃣",
+    "title": "5 and 9",
+    "big": "4 in 36 each",
+    "note": ""
+   },
+   {
+    "type": "value",
+    "n": 4,
+    "emoji": "🔟",
+    "title": "4 and 10",
+    "big": "3 in 36 each",
+    "note": ""
+   },
+   {
+    "type": "value",
+    "n": 5,
+    "emoji": "🐢",
+    "title": "3 and 11",
+    "big": "2 in 36 each",
+    "note": ""
+   },
+   {
+    "type": "value",
+    "n": 6,
+    "emoji": "🚫",
+    "title": "2 and 12 almost never hit",
+    "big": "1 in 36 each",
+    "note": "Once every 36 rolls, on average"
+   },
+   {
+    "type": "cta",
+    "title": "Save this for your next game night.",
+    "keyword": "",
+    "emoji": "💾",
+    "line": "Send it to the friend who always picks 12.",
+    "save": "Follow for daily odds"
+   }
+  ]
+ }
+]

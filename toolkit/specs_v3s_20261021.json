@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S18_rarer2",
+  "series": "RARER THAN YOU THINK · PART 18",
+  "follow": "Follow for Part 19",
+  "headline": "Which is rarer?",
+  "topic": "",
+  "hook": {
+   "left": {
+    "emoji": "🃏",
+    "label": "Pick my card"
+   },
+   "right": {
+    "emoji": "🎰",
+    "label": "Three jackpots"
+   }
+  },
+  "ranked": "",
+  "items": [
+   {
+    "emoji": "🎲",
+    "label": "Double sixes",
+    "num": "1 in 36",
+    "n": 36
+   },
+   {
+    "emoji": "🃏",
+    "label": "Pick the right card",
+    "num": "1 in 52",
+    "n": 52
+   },
+   {
+    "emoji": "😈",
+    "label": "Three sixes",
+    "num": "1 in 216",
+    "n": 216
+   },
+   {
+    "emoji": "🎯",
+    "label": "Yahtzee in one roll",
+    "num": "1 in 1,296",
+    "n": 1296
+   },
+   {
+    "emoji": "4️⃣",
+    "label": "Four of a kind",
+    "num": "1 in 4,165",
+    "n": 4165
+   },
+   {
+    "emoji": "🌊",
+    "label": "Straight flush",
+    "num": "1 in 72,193",
+    "n": 72193
+   },
+   {
+    "emoji": "📱",
+    "label": "Guess a 6-digit code",
+    "num": "1 in 1 million",
+    "n": 1000000
+   },
+   {
+    "emoji": "💰",
+    "label": "Mega Millions jackpot",
+    "num": "1 in 290 million",
+    "n": 290472336
+   },
+   {
+    "emoji": "🧩",
+    "label": "Rubik's cube by luck",
+    "num": "1 in 43.3 quintillion",
+    "n": 43252003274489856000
+   },
+   {
+    "emoji": "🎰",
+    "label": "3 JACKPOTS IN A ROW",
+    "num": "1 IN 24.5 SEPTILLION",
+    "n": 24508364576307073690669056
+   }
+  ],
+  "final_line": "",
+  "cta": "Called the order?",
+  "yes": "YES",
+  "no": "NO",
+  "source": ""
+ },
+ {
+  "id": "S19_poker",
+  "series": "RARER THAN YOU THINK · PART 19",
+  "follow": "Follow for Part 20",
+  "headline": "Every poker hand, ranked.",
+  "topic": "",
+  "hook": {
+   "left": {
+    "emoji": "✌️",
+    "label": "One pair"
+   },
+   "right": {
+    "emoji": "👑",
+    "label": "Two royals"
+   }
+  },
+  "ranked": "",
+  "items": [
+   {
+    "emoji": "✌️",
+    "label": "One pair",
+    "num": "1 in 2.4",
+    "n": 2.3664774273550595
+   },
+   {
+    "emoji": "👯",
+    "label": "Two pair",
+    "num": "1 in 21",
+    "n": 21.035360440901155
+   },
+   {
+    "emoji": "🎯",
+    "label": "Three of a kind",
+    "num": "1 in 47",
+    "n": 47.3305566073457
+   },
+   {
+    "emoji": "📏",
+    "label": "A straight",
+    "num": "1 in 255",
+    "n": 254.77707006369428
+   },
+   {
+    "emoji": "♦️",
+    "label": "A flush",
+    "num": "1 in 509",
+    "n": 508.90585241730275
+   },
+   {
+    "emoji": "🏠",
+    "label": "Full house",
+    "num": "1 in 694",
+    "n": 693.9625260235947
+   },
+   {
+    "emoji": "4️⃣",
+    "label": "Four of a kind",
+    "num": "1 in 4,165",
+    "n": 4165
+   },
+   {
+    "emoji": "🌊",
+    "label": "Straight flush",
+    "num": "1 in 72,193",
+    "n": 72193
+   },
+   {
+    "emoji": "👑",
+    "label": "Royal flush",
+    "num": "1 in 649,740",
+    "n": 649740
+   },
+   {
+    "emoji": "🤯",
+    "label": "TWO ROYALS IN A ROW",
+    "num": "1 IN 422 BILLION",
+    "n": 422162067600
+   }
+  ],
+  "final_line": "",
+  "cta": "Ever hit a full house?",
+  "yes": "YES",
+  "no": "NO",
+  "source": ""
+ },
+ {
+  "id": "S20_redrow",
+  "series": "RARER THAN YOU THINK · PART 20",
+  "follow": "Follow for Part 21",
+  "headline": "Red again? And again?",
+  "topic": "",
+  "hook": {
+   "left": {
+    "emoji": "🔴",
+    "label": "Red once"
+   },
+   "right": {
+    "emoji": "🎰",
+    "label": "26 in a row"
+   }
+  },
+  "ranked": "",
+  "items": [
+   {
+    "emoji": "🔴",
+    "label": "Red once",
+    "num": "1 in 2.1",
+    "n": 2.0555555555555554
+   },
+   {
+    "emoji": "✌️",
+    "label": "2 in a row",
+    "num": "1 in 4.2",
+    "n": 4.225308641975308
+   },
+   {
+    "emoji": "🤞",
+    "label": "3 in a row",
+    "num": "1 in 8.7",
+    "n": 8.685356652949244
+   },
+   {
+    "emoji": "🖐️",
+    "label": "5 in a row",
+    "num": "1 in 37",
+    "n": 36.69831252434417
+   },
+   {
+    "emoji": "😮",
+    "label": "7 in a row",
+    "num": "1 in 155",
+    "n": 155.0616970550221
+   },
+   {
+    "emoji": "🔟",
+    "label": "10 in a row",
+    "num": "1 in 1,347",
+    "n": 1346.7661421344362
+   },
+   {
+    "emoji": "😳",
+    "label": "13 in a row",
+    "num": "1 in 11,697",
+    "n": 11697.144272554111
+   },
+   {
+    "emoji": "😱",
+    "label": "16 in a row",
+    "num": "1 in 101,594",
+    "n": 101593.869828135
+   },
+   {
+    "emoji": "🤯",
+    "label": "20 in a row",
+    "num": "1 in 1.8 million",
+    "n": 1813779.0415996725
+   },
+   {
+    "emoji": "🎰",
+    "label": "26 IN A ROW",
+    "num": "1 IN 137 MILLION",
+    "n": 136823184.13294545
+   }
+  ],
+  "final_line": "",
+  "cta": "Would you bet on red?",
+  "yes": "YES",
+  "no": "NO",
+  "source": ""
+ },
+ {
+  "id": "S21_monkey",
+  "series": "RARER THAN YOU THINK · PART 21",
+  "follow": "Follow for Part 22",
+  "headline": "A monkey hits random keys.",
+  "topic": "",
+  "hook": {
+   "left": {
+    "emoji": "🐒",
+    "label": "Type “a”"
+   },
+   "right": {
+    "emoji": "📜",
+    "label": "Type Shakespeare"
+   }
+  },
+  "ranked": "",
+  "items": [
+   {
+    "emoji": "🅰️",
+    "label": "Type “a”",
+    "num": "1 in 26",
+    "n": 26
+   },
+   {
+    "emoji": "👋",
+    "label": "Type “hi”",
+    "num": "1 in 676",
+    "n": 676
+   },
+   {
+    "emoji": "🐱",
+    "label": "Type “cat”",
+    "num": "1 in 17,576",
+    "n": 17576
+   },
+   {
+    "emoji": "🎲",
+    "label": "Type “odds”",
+    "num": "1 in 456,976",
+    "n": 456976
+   },
+   {
+    "emoji": "👋",
+    "label": "Type “hello”",
+    "num": "1 in 11.9 million",
+    "n": 11881376
+   },
+   {
+    "emoji": "🍌",
+    "label": "Type “banana”",
+    "num": "1 in 309 million",
+    "n": 308915776
+   },
+   {
+    "emoji": "🐒",
+    "label": "Type “monkeys”",
+    "num": "1 in 8 billion",
+    "n": 8031810176
+   },
+   {
+    "emoji": "🔐",
+    "label": "Type “password”",
+    "num": "1 in 209 billion",
+    "n": 208827064576
+   },
+   {
+    "emoji": "✍️",
+    "label": "Type “shakespeare”",
+    "num": "1 in 3.7 quadrillion",
+    "n": 3670344486987776
+   },
+   {
+    "emoji": "📜",
+    "label": "“TOBEORNOTTOBE”",
+    "num": "1 IN 2.5 QUINTILLION",
+    "n": 2481152873203736576
+   }
+  ],
+  "final_line": "",
+  "cta": "Could it type your name?",
+  "yes": "YES",
+  "no": "NO",
+  "source": ""
+ },
+ {
+  "id": "S22_bday",
+  "series": "RARER THAN YOU THINK · PART 22",
+  "follow": "Follow for Part 23",
+  "headline": "Guess blindly: my birthday.",
+  "topic": "",
+  "hook": {
+   "left": {
+    "emoji": "📅",
+    "label": "The weekday"
+   },
+   "right": {
+    "emoji": "⚡",
+    "label": "To the second"
+   }
+  },
+  "ranked": "",
+  "items": [
+   {
+    "emoji": "📅",
+    "label": "The weekday",
+    "num": "1 in 7",
+    "n": 7
+   },
+   {
+    "emoji": "🗓️",
+    "label": "The month",
+    "num": "1 in 12",
+    "n": 12
+   },
+   {
+    "emoji": "🔢",
+    "label": "The date",
+    "num": "1 in 31",
+    "n": 31
+   },
+   {
+    "emoji": "🎂",
+    "label": "The birthday",
+    "num": "1 in 365",
+    "n": 365
+   },
+   {
+    "emoji": "📆",
+    "label": "Birthday + year",
+    "num": "1 in 36,525",
+    "n": 36525
+   },
+   {
+    "emoji": "👥",
+    "label": "Two strangers' birthdays",
+    "num": "1 in 133,225",
+    "n": 133225
+   },
+   {
+    "emoji": "🕐",
+    "label": "+ the hour",
+    "num": "1 in 876,600",
+    "n": 876600
+   },
+   {
+    "emoji": "⏱️",
+    "label": "+ the minute",
+    "num": "1 in 52.6 million",
+    "n": 52596000
+   },
+   {
+    "emoji": "⚡",
+    "label": "+ the second",
+    "num": "1 in 3.2 billion",
+    "n": 3155760000
+   },
+   {
+    "emoji": "🌌",
+    "label": "TWO PEOPLE, TO THE SECOND",
+    "num": "1 IN 10 QUINTILLION",
+    "n": 9958821177600000000
+   }
+  ],
+  "final_line": "",
+  "cta": "Could you guess the month?",
+  "yes": "YES",
+  "no": "NO",
+  "source": ""
+ }
+]

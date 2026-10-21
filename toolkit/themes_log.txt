@@ -25,3 +25,14 @@ C02_montyhall:lava
 C03_birthday:gold_vault
 C04_casino:forest
 T12_bracket:mint_chalk
+T13_books:crimson_noir
+C05_dice:neon_grid
+S18_rarer2:candy
+T14_poker:arctic
+S19_poker:gold_vault
+T15_monkey:forest
+S20_redrow:mint_chalk
+S21_monkey:ocean
+S22_bday:sunset
+T16_red:neon_grid
+T17_rarer2:crimson_noir

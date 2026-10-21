@@ -99,3 +99,14 @@ L06_games:tension
 L07_guessing:funk
 T08_powerball:marimba
 T12_bracket:synthwave
+T13_books:phonk
+S18_rarer2:trap
+T14_poker:piano
+S19_poker:tension
+T15_monkey:funk
+S20_redrow:synthwave
+S21_monkey:phonk
+S22_bday:trap
+T16_red:ambient
+T17_rarer2:chiptune
+S22_bday:tension

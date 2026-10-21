@@ -1,0 +1,342 @@
+[
+ {
+  "id": "T14_poker",
+  "hook": {
+   "top": "Random 5-card deal:",
+   "big": "EVERY HAND",
+   "bottom": "",
+   "ask": "Start with one pair...",
+   "explain": ""
+  },
+  "stops": [
+   {
+    "emoji": "✌️",
+    "label": "One pair",
+    "num": "1 in 2.4",
+    "source": ""
+   },
+   {
+    "emoji": "👯",
+    "label": "Two pair",
+    "num": "1 in 21",
+    "source": ""
+   },
+   {
+    "emoji": "🎯",
+    "label": "Three of a kind",
+    "num": "1 in 47",
+    "source": ""
+   },
+   {
+    "emoji": "📏",
+    "label": "A straight",
+    "num": "1 in 255",
+    "source": ""
+   },
+   {
+    "emoji": "♦️",
+    "label": "A flush",
+    "num": "1 in 509",
+    "source": ""
+   },
+   {
+    "emoji": "🏠",
+    "label": "Full house",
+    "num": "1 in 694",
+    "source": ""
+   },
+   {
+    "emoji": "4️⃣",
+    "label": "Four of a kind",
+    "num": "1 in 4,165",
+    "source": ""
+   },
+   {
+    "emoji": "🌊",
+    "label": "Straight flush",
+    "num": "1 in 72,193",
+    "source": ""
+   },
+   {
+    "emoji": "👑",
+    "label": "Royal flush",
+    "num": "1 in 649,740",
+    "source": ""
+   },
+   {
+    "emoji": "🤯",
+    "label": "Two royals in a row",
+    "num": "1 in 422 billion",
+    "source": ""
+   },
+   {
+    "emoji": "🔥",
+    "label": "Three royals in a row",
+    "num": "1 in 274 quadrillion",
+    "source": ""
+   }
+  ],
+  "payoff": {
+   "emoji": "🌌",
+   "label": "Four royals in a row",
+   "num": "1 in 178 sextillion",
+   "line": "",
+   "source": ""
+  }
+ },
+ {
+  "id": "T15_monkey",
+  "hook": {
+   "top": "A monkey hits random keys.",
+   "big": "SHAKESPEARE?",
+   "bottom": "",
+   "ask": "Start with one letter...",
+   "explain": ""
+  },
+  "stops": [
+   {
+    "emoji": "🅰️",
+    "label": "Type “a”",
+    "num": "1 in 26",
+    "source": ""
+   },
+   {
+    "emoji": "👋",
+    "label": "Type “hi”",
+    "num": "1 in 676",
+    "source": ""
+   },
+   {
+    "emoji": "🐱",
+    "label": "Type “cat”",
+    "num": "1 in 17,576",
+    "source": ""
+   },
+   {
+    "emoji": "🎲",
+    "label": "Type “odds”",
+    "num": "1 in 456,976",
+    "source": ""
+   },
+   {
+    "emoji": "👋",
+    "label": "Type “hello”",
+    "num": "1 in 11.9 million",
+    "source": ""
+   },
+   {
+    "emoji": "🍌",
+    "label": "Type “banana”",
+    "num": "1 in 309 million",
+    "source": ""
+   },
+   {
+    "emoji": "🐒",
+    "label": "Type “monkeys”",
+    "num": "1 in 8 billion",
+    "source": ""
+   },
+   {
+    "emoji": "🔐",
+    "label": "Type “password”",
+    "num": "1 in 209 billion",
+    "source": ""
+   },
+   {
+    "emoji": "⌨️",
+    "label": "Type “keyboards”",
+    "num": "1 in 5.4 trillion",
+    "source": ""
+   },
+   {
+    "emoji": "✍️",
+    "label": "Type “shakespeare”",
+    "num": "1 in 3.7 quadrillion",
+    "source": ""
+   },
+   {
+    "emoji": "📜",
+    "label": "“tobeornottobe”",
+    "num": "1 in 2.5 quintillion",
+    "source": ""
+   }
+  ],
+  "payoff": {
+   "emoji": "🙈",
+   "label": "Type “monkeybusiness”",
+   "num": "1 in 64.5 quintillion",
+   "line": "",
+   "source": ""
+  }
+ },
+ {
+  "id": "T16_red",
+  "hook": {
+   "top": "Red on roulette, again and again.",
+   "big": "26 IN A ROW?",
+   "bottom": "",
+   "ask": "Start with one spin...",
+   "explain": ""
+  },
+  "stops": [
+   {
+    "emoji": "🔴",
+    "label": "Red once",
+    "num": "1 in 2.1",
+    "source": ""
+   },
+   {
+    "emoji": "✌️",
+    "label": "2 in a row",
+    "num": "1 in 4.2",
+    "source": ""
+   },
+   {
+    "emoji": "🤞",
+    "label": "3 in a row",
+    "num": "1 in 8.7",
+    "source": ""
+   },
+   {
+    "emoji": "🖐️",
+    "label": "5 in a row",
+    "num": "1 in 37",
+    "source": ""
+   },
+   {
+    "emoji": "😮",
+    "label": "7 in a row",
+    "num": "1 in 155",
+    "source": ""
+   },
+   {
+    "emoji": "🔟",
+    "label": "10 in a row",
+    "num": "1 in 1,347",
+    "source": ""
+   },
+   {
+    "emoji": "😳",
+    "label": "12 in a row",
+    "num": "1 in 5,691",
+    "source": ""
+   },
+   {
+    "emoji": "😱",
+    "label": "15 in a row",
+    "num": "1 in 49,424",
+    "source": ""
+   },
+   {
+    "emoji": "🤯",
+    "label": "18 in a row",
+    "num": "1 in 429,265",
+    "source": ""
+   },
+   {
+    "emoji": "🌋",
+    "label": "21 in a row",
+    "num": "1 in 3.7 million",
+    "source": ""
+   },
+   {
+    "emoji": "🎰",
+    "label": "24 in a row",
+    "num": "1 in 32.4 million",
+    "source": ""
+   }
+  ],
+  "payoff": {
+   "emoji": "🏛️",
+   "label": "26 in a row (Monte Carlo, 1913)",
+   "num": "1 in 137 million",
+   "line": "",
+   "source": ""
+  }
+ },
+ {
+  "id": "T17_rarer2",
+  "hook": {
+   "top": "Which is rarer?",
+   "big": "YOU DECIDE",
+   "bottom": "",
+   "ask": "Guess the rarest...",
+   "explain": ""
+  },
+  "stops": [
+   {
+    "emoji": "🎲",
+    "label": "Double sixes",
+    "num": "1 in 36",
+    "source": ""
+   },
+   {
+    "emoji": "🃏",
+    "label": "Pick the right card",
+    "num": "1 in 52",
+    "source": ""
+   },
+   {
+    "emoji": "😈",
+    "label": "Three sixes",
+    "num": "1 in 216",
+    "source": ""
+   },
+   {
+    "emoji": "🎯",
+    "label": "Yahtzee in one roll",
+    "num": "1 in 1,296",
+    "source": ""
+   },
+   {
+    "emoji": "4️⃣",
+    "label": "Four of a kind",
+    "num": "1 in 4,165",
+    "source": ""
+   },
+   {
+    "emoji": "🌊",
+    "label": "Straight flush",
+    "num": "1 in 72,193",
+    "source": ""
+   },
+   {
+    "emoji": "📱",
+    "label": "Guess a 6-digit code",
+    "num": "1 in 1 million",
+    "source": ""
+   },
+   {
+    "emoji": "💰",
+    "label": "Mega Millions jackpot",
+    "num": "1 in 290 million",
+    "source": ""
+   },
+   {
+    "emoji": "🎟️",
+    "label": "2 jackpots in a row",
+    "num": "1 in 84.4 quadrillion",
+    "source": ""
+   },
+   {
+    "emoji": "🏀",
+    "label": "Perfect bracket (blind picks)",
+    "num": "1 in 9.2 quintillion",
+    "source": ""
+   },
+   {
+    "emoji": "🧩",
+    "label": "Rubik's cube by luck",
+    "num": "1 in 43.3 quintillion",
+    "source": ""
+   }
+  ],
+  "payoff": {
+   "emoji": "🎰",
+   "label": "3 jackpots in a row",
+   "num": "1 in 24.5 septillion",
+   "line": "",
+   "source": ""
+  }
+ }
+]

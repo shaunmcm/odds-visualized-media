@@ -157,3 +157,6 @@ TikTok: 9:15/12:30/5:00/8:30, over 1 minute. Oct 19 extras moved to backlog: S13
 ## NO LONG-FORM ON YOUTUBE (user, Oct 19 6:53 PM). YouTube = 4 Shorts/day: 11:30, 12:00 (YouTube-only extra Short), 5:30, 8:00. No weekly recap video.
 
 ## ACCURACY: STATE THE ASSUMPTION (user, Oct 21). If odds assume blind guessing / equal chances, say so on screen ("If you guess blindly") and in the caption. Never present coin-flip math as real-world odds for sports or skill (bracket: blind 1 in 9.2 quintillion vs NCAA informed-fan estimate ~1 in 120.2 billion).
+
+## BACKLOG after Oct 21 build: Shorts S20_redrow (Part 20), S21_monkey (Part 21), S22_bday (Part 22) — captions in posts_v3s_20261021.json; series.txt = 22, new Shorts start at Part 23.
+Carousels: C04_casino (posts_car_20261019.json), C05_dice (posts_car_20261021.json). TikTok backlog: none.
