@@ -1,3 +1,5 @@
+ALL POSTING PAUSED (user, Oct 22 2026 9:50 AM PT): "stop posting to Instagram and TikTok until I tell you to continue; also do not look for comments or respond to any comments." Do NOTHING: no building, no scheduling, no posting to Instagram, TikTok or YouTube, no comment checks or replies, until the user says to continue in the Odds chat. Any scheduled run that reads this must stop immediately.
+
 # ODDS VISUALIZED — INSTAGRAM GROWTH SYSTEM (user, Oct 19 2026, permanent)
 Goal: 10,000 highly engaged followers, positioned for monetization. Niche stays exactly the same: odds, probability, "rarer than you think".
 The algorithm signals we build every post for: RETENTION (watch time / swipe-through), SAVES, COMMENTS, SHARES (DM sends).
