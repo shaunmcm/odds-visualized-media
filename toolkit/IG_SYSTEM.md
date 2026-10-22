@@ -5,9 +5,9 @@ No corporate fluff, no definitions, no robotic transitions. Direct, punchy, nati
 
 ## SCHEDULE (user, Oct 19 07:45, FINAL: "three reels per day on Instagram and one carousel", same viral hook methods)
 Instagram (4): 8:30 AM carousel · 11:30 AM Reel · 5:30 PM Reel · 8:00 PM Reel
-YouTube (4):   11:30 AM Short · 12:00 PM Short (YouTube only) · 5:30 PM Short · 8:00 PM Short. NO LONG-FORM (user, Oct 19 6:53 PM: "Stop posting the long form to YT").
+YouTube: STOPPED COMPLETELY (user, Oct 22 2026 12:38 AM: "stop auto posting shorts to YouTube completely"). No Shorts, no long-form. Do not upload anything to YouTube unless the user restarts it.
 TikTok (4):    9:15 AM · 12:30 PM · 5:00 PM · 8:30 PM, vertical and OVER 1 minute (engine6, 64.5 s)
-The 3 Reels and 3 YouTube Shorts are the same 3 videos (one post to both). The carousel is Instagram only.
+The 3 Reels are Instagram only. The carousel is Instagram only.
 Reels use the SAME hook system as carousels: the on-screen headline and caption line 1 come from the hook triggers below.
 Carousel backlog (rendered, captions in posts_car_20261019.json): C02_montyhall, C03_birthday, C04_casino. Use these first, one per day.
 

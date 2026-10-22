@@ -160,3 +160,7 @@ TikTok: 9:15/12:30/5:00/8:30, over 1 minute. Oct 19 extras moved to backlog: S13
 
 ## BACKLOG after Oct 21 build: Shorts S20_redrow (Part 20), S21_monkey (Part 21), S22_bday (Part 22) — captions in posts_v3s_20261021.json; series.txt = 22, new Shorts start at Part 23.
 Carousels: C04_casino (posts_car_20261019.json), C05_dice (posts_car_20261021.json). TikTok backlog: none.
+
+
+## YOUTUBE STOPPED (user, Oct 22 2026 12:38 AM PT)
+"I want you to stop auto posting shorts to YouTube completely." No YouTube uploads of any kind (Shorts or long-form). Daily output is now Instagram 4 (8:30 carousel + Reels 11:30, 5:30, 8:00) and TikTok 4. The old 12:00 YouTube-only Short slot is gone. Ignore any older YouTube instructions in this file.
